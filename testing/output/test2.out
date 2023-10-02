@@ -1,0 +1,5130 @@
+[
+  {
+    "date": "2012-01-02",
+    "Precipitation": "10.9",
+    "Temp_max": "10.6",
+    "Temp_min": "2.8",
+    "Wind": "4.5",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-01-03",
+    "Precipitation": "0.8",
+    "Temp_max": "11.7",
+    "Temp_min": "7.2",
+    "Wind": "2.3",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-01-04",
+    "Precipitation": "20.3",
+    "Temp_max": "12.2",
+    "Temp_min": "5.6",
+    "Wind": "4.7",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-01-05",
+    "Precipitation": "1.3",
+    "Temp_max": "8.9",
+    "Temp_min": "2.8",
+    "Wind": "6.1",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-01-06",
+    "Precipitation": "2.5",
+    "Temp_max": "4.4",
+    "Temp_min": "2.2",
+    "Wind": "2.2",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-01-07",
+    "Precipitation": "0.0",
+    "Temp_max": "7.2",
+    "Temp_min": "2.8",
+    "Wind": "2.3",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-01-09",
+    "Precipitation": "4.3",
+    "Temp_max": "9.4",
+    "Temp_min": "5.0",
+    "Wind": "3.4",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-01-10",
+    "Precipitation": "1.0",
+    "Temp_max": "6.1",
+    "Temp_min": "0.6",
+    "Wind": "3.4",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-01-21",
+    "Precipitation": "3.0",
+    "Temp_max": "8.3",
+    "Temp_min": "3.3",
+    "Wind": "8.2",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-01-22",
+    "Precipitation": "6.1",
+    "Temp_max": "6.7",
+    "Temp_min": "2.2",
+    "Wind": "4.8",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-01-23",
+    "Precipitation": "0.0",
+    "Temp_max": "8.3",
+    "Temp_min": "1.1",
+    "Wind": "3.6",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-01-24",
+    "Precipitation": "8.6",
+    "Temp_max": "10.0",
+    "Temp_min": "2.2",
+    "Wind": "5.1",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-01-25",
+    "Precipitation": "8.1",
+    "Temp_max": "8.9",
+    "Temp_min": "4.4",
+    "Wind": "5.4",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-01-26",
+    "Precipitation": "4.8",
+    "Temp_max": "8.9",
+    "Temp_min": "1.1",
+    "Wind": "4.8",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-01-28",
+    "Precipitation": "0.0",
+    "Temp_max": "6.7",
+    "Temp_min": "0.6",
+    "Wind": "2.2",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-01-29",
+    "Precipitation": "27.7",
+    "Temp_max": "9.4",
+    "Temp_min": "3.9",
+    "Wind": "4.5",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-01-30",
+    "Precipitation": "3.6",
+    "Temp_max": "8.3",
+    "Temp_min": "6.1",
+    "Wind": "5.1",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-01-31",
+    "Precipitation": "1.8",
+    "Temp_max": "9.4",
+    "Temp_min": "6.1",
+    "Wind": "3.9",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-02-01",
+    "Precipitation": "13.5",
+    "Temp_max": "8.9",
+    "Temp_min": "3.3",
+    "Wind": "2.7",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-02-07",
+    "Precipitation": "0.3",
+    "Temp_max": "15.6",
+    "Temp_min": "7.8",
+    "Wind": "5.3",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-02-08",
+    "Precipitation": "2.8",
+    "Temp_max": "10.0",
+    "Temp_min": "5.0",
+    "Wind": "2.7",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-02-09",
+    "Precipitation": "2.5",
+    "Temp_max": "11.1",
+    "Temp_min": "7.8",
+    "Wind": "2.4",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-02-10",
+    "Precipitation": "2.5",
+    "Temp_max": "12.8",
+    "Temp_min": "6.7",
+    "Wind": "3.0",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-02-11",
+    "Precipitation": "0.8",
+    "Temp_max": "8.9",
+    "Temp_min": "5.6",
+    "Wind": "3.4",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-02-12",
+    "Precipitation": "1.0",
+    "Temp_max": "8.3",
+    "Temp_min": "5.0",
+    "Wind": "1.3",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-02-13",
+    "Precipitation": "11.4",
+    "Temp_max": "7.2",
+    "Temp_min": "4.4",
+    "Wind": "1.4",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-02-14",
+    "Precipitation": "2.5",
+    "Temp_max": "6.7",
+    "Temp_min": "1.1",
+    "Wind": "3.1",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-02-16",
+    "Precipitation": "1.8",
+    "Temp_max": "7.2",
+    "Temp_min": "3.3",
+    "Wind": "2.1",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-02-17",
+    "Precipitation": "17.3",
+    "Temp_max": "10.0",
+    "Temp_min": "4.4",
+    "Wind": "3.4",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-02-18",
+    "Precipitation": "6.4",
+    "Temp_max": "6.7",
+    "Temp_min": "3.9",
+    "Wind": "8.1",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-02-20",
+    "Precipitation": "3.0",
+    "Temp_max": "7.8",
+    "Temp_min": "1.7",
+    "Wind": "2.9",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-02-21",
+    "Precipitation": "0.8",
+    "Temp_max": "10.0",
+    "Temp_min": "7.8",
+    "Wind": "7.5",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-02-22",
+    "Precipitation": "8.6",
+    "Temp_max": "10.0",
+    "Temp_min": "2.8",
+    "Wind": "5.9",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-02-24",
+    "Precipitation": "11.4",
+    "Temp_max": "6.7",
+    "Temp_min": "4.4",
+    "Wind": "3.5",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-02-25",
+    "Precipitation": "0.0",
+    "Temp_max": "7.2",
+    "Temp_min": "2.8",
+    "Wind": "6.4",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-03-02",
+    "Precipitation": "2.0",
+    "Temp_max": "6.7",
+    "Temp_min": "3.9",
+    "Wind": "5.1",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-03-04",
+    "Precipitation": "0.0",
+    "Temp_max": "10.6",
+    "Temp_min": "6.7",
+    "Wind": "5.6",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-03-05",
+    "Precipitation": "6.9",
+    "Temp_max": "7.8",
+    "Temp_min": "1.1",
+    "Wind": "6.2",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-03-09",
+    "Precipitation": "3.6",
+    "Temp_max": "9.4",
+    "Temp_min": "5.0",
+    "Wind": "2.8",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-03-10",
+    "Precipitation": "10.4",
+    "Temp_max": "7.2",
+    "Temp_min": "6.1",
+    "Wind": "3.4",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-03-11",
+    "Precipitation": "13.7",
+    "Temp_max": "6.7",
+    "Temp_min": "2.8",
+    "Wind": "5.8",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-03-14",
+    "Precipitation": "8.6",
+    "Temp_max": "7.8",
+    "Temp_min": "1.1",
+    "Wind": "4.7",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-03-16",
+    "Precipitation": "8.4",
+    "Temp_max": "8.9",
+    "Temp_min": "3.9",
+    "Wind": "5.1",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-03-18",
+    "Precipitation": "3.6",
+    "Temp_max": "5.0",
+    "Temp_min": "-0.6",
+    "Wind": "2.7",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-03-19",
+    "Precipitation": "2.0",
+    "Temp_max": "7.2",
+    "Temp_min": "-1.1",
+    "Wind": "3.0",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-03-20",
+    "Precipitation": "3.6",
+    "Temp_max": "7.8",
+    "Temp_min": "2.2",
+    "Wind": "6.4",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-03-21",
+    "Precipitation": "1.3",
+    "Temp_max": "8.9",
+    "Temp_min": "1.1",
+    "Wind": "2.5",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-03-22",
+    "Precipitation": "4.1",
+    "Temp_max": "10.0",
+    "Temp_min": "1.7",
+    "Wind": "2.1",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-03-25",
+    "Precipitation": "0.0",
+    "Temp_max": "13.3",
+    "Temp_min": "2.2",
+    "Wind": "2.7",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-03-27",
+    "Precipitation": "4.8",
+    "Temp_max": "14.4",
+    "Temp_min": "6.7",
+    "Wind": "3.8",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-03-28",
+    "Precipitation": "1.3",
+    "Temp_max": "10.6",
+    "Temp_min": "7.2",
+    "Wind": "5.9",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-03-29",
+    "Precipitation": "27.4",
+    "Temp_max": "10.0",
+    "Temp_min": "6.1",
+    "Wind": "4.4",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-03-30",
+    "Precipitation": "5.6",
+    "Temp_max": "9.4",
+    "Temp_min": "5.0",
+    "Wind": "4.7",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-03-31",
+    "Precipitation": "13.2",
+    "Temp_max": "10.0",
+    "Temp_min": "2.8",
+    "Wind": "3.4",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-04-01",
+    "Precipitation": "1.5",
+    "Temp_max": "8.9",
+    "Temp_min": "4.4",
+    "Wind": "6.8",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-04-03",
+    "Precipitation": "1.5",
+    "Temp_max": "11.7",
+    "Temp_min": "3.3",
+    "Wind": "3.1",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-04-06",
+    "Precipitation": "0.3",
+    "Temp_max": "11.1",
+    "Temp_min": "3.3",
+    "Wind": "2.6",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-04-10",
+    "Precipitation": "0.0",
+    "Temp_max": "17.8",
+    "Temp_min": "8.9",
+    "Wind": "3.2",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-04-11",
+    "Precipitation": "2.3",
+    "Temp_max": "11.1",
+    "Temp_min": "7.2",
+    "Wind": "2.6",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-04-12",
+    "Precipitation": "0.5",
+    "Temp_max": "13.9",
+    "Temp_min": "5.6",
+    "Wind": "2.6",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-04-15",
+    "Precipitation": "0.0",
+    "Temp_max": "16.1",
+    "Temp_min": "7.2",
+    "Wind": "2.9",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-04-16",
+    "Precipitation": "8.1",
+    "Temp_max": "13.3",
+    "Temp_min": "6.7",
+    "Wind": "5.8",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-04-17",
+    "Precipitation": "1.8",
+    "Temp_max": "10.0",
+    "Temp_min": "4.4",
+    "Wind": "2.0",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-04-18",
+    "Precipitation": "1.8",
+    "Temp_max": "13.3",
+    "Temp_min": "7.2",
+    "Wind": "3.9",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-04-19",
+    "Precipitation": "10.9",
+    "Temp_max": "13.9",
+    "Temp_min": "5.0",
+    "Wind": "2.6",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-04-20",
+    "Precipitation": "6.6",
+    "Temp_max": "13.3",
+    "Temp_min": "6.7",
+    "Wind": "2.7",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-04-22",
+    "Precipitation": "0.0",
+    "Temp_max": "23.3",
+    "Temp_min": "8.3",
+    "Wind": "2.6",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-04-24",
+    "Precipitation": "4.3",
+    "Temp_max": "13.9",
+    "Temp_min": "10.0",
+    "Wind": "2.8",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-04-25",
+    "Precipitation": "10.7",
+    "Temp_max": "16.7",
+    "Temp_min": "8.9",
+    "Wind": "2.6",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-04-26",
+    "Precipitation": "3.8",
+    "Temp_max": "13.9",
+    "Temp_min": "6.7",
+    "Wind": "5.2",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-04-27",
+    "Precipitation": "0.8",
+    "Temp_max": "13.3",
+    "Temp_min": "6.1",
+    "Wind": "4.8",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-04-29",
+    "Precipitation": "4.3",
+    "Temp_max": "15.6",
+    "Temp_min": "8.9",
+    "Wind": "1.6",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-04-30",
+    "Precipitation": "4.3",
+    "Temp_max": "12.8",
+    "Temp_min": "7.2",
+    "Wind": "8.0",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-05-01",
+    "Precipitation": "0.5",
+    "Temp_max": "11.7",
+    "Temp_min": "6.1",
+    "Wind": "6.4",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-05-02",
+    "Precipitation": "0.5",
+    "Temp_max": "13.3",
+    "Temp_min": "5.6",
+    "Wind": "2.5",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-05-03",
+    "Precipitation": "18.5",
+    "Temp_max": "11.1",
+    "Temp_min": "7.2",
+    "Wind": "3.4",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-05-04",
+    "Precipitation": "1.8",
+    "Temp_max": "12.2",
+    "Temp_min": "6.1",
+    "Wind": "4.6",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-05-09",
+    "Precipitation": "0.0",
+    "Temp_max": "13.3",
+    "Temp_min": "6.7",
+    "Wind": "3.9",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-05-17",
+    "Precipitation": "0.0",
+    "Temp_max": "17.8",
+    "Temp_min": "6.7",
+    "Wind": "2.9",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-05-18",
+    "Precipitation": "0.0",
+    "Temp_max": "15.6",
+    "Temp_min": "7.8",
+    "Wind": "3.1",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-05-20",
+    "Precipitation": "6.4",
+    "Temp_max": "14.4",
+    "Temp_min": "11.7",
+    "Wind": "1.3",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-05-21",
+    "Precipitation": "14.0",
+    "Temp_max": "16.7",
+    "Temp_min": "10.0",
+    "Wind": "4.0",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-05-22",
+    "Precipitation": "6.1",
+    "Temp_max": "12.8",
+    "Temp_min": "8.9",
+    "Wind": "4.8",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-05-23",
+    "Precipitation": "0.3",
+    "Temp_max": "14.4",
+    "Temp_min": "8.9",
+    "Wind": "6.3",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-05-24",
+    "Precipitation": "0.0",
+    "Temp_max": "17.2",
+    "Temp_min": "8.9",
+    "Wind": "3.3",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-05-25",
+    "Precipitation": "0.0",
+    "Temp_max": "22.2",
+    "Temp_min": "8.9",
+    "Wind": "3.1",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-05-28",
+    "Precipitation": "0.0",
+    "Temp_max": "16.7",
+    "Temp_min": "10.0",
+    "Wind": "3.4",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-05-30",
+    "Precipitation": "0.3",
+    "Temp_max": "18.9",
+    "Temp_min": "11.1",
+    "Wind": "1.5",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-05-31",
+    "Precipitation": "3.8",
+    "Temp_max": "17.8",
+    "Temp_min": "12.2",
+    "Wind": "2.7",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-06-01",
+    "Precipitation": "6.6",
+    "Temp_max": "20.0",
+    "Temp_min": "12.8",
+    "Wind": "3.7",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-06-02",
+    "Precipitation": "0.3",
+    "Temp_max": "18.9",
+    "Temp_min": "10.6",
+    "Wind": "3.7",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-06-04",
+    "Precipitation": "1.3",
+    "Temp_max": "12.8",
+    "Temp_min": "8.9",
+    "Wind": "3.1",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-06-05",
+    "Precipitation": "16.0",
+    "Temp_max": "13.3",
+    "Temp_min": "8.3",
+    "Wind": "3.3",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-06-07",
+    "Precipitation": "16.5",
+    "Temp_max": "16.1",
+    "Temp_min": "8.9",
+    "Wind": "3.5",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-06-08",
+    "Precipitation": "1.5",
+    "Temp_max": "15.0",
+    "Temp_min": "8.3",
+    "Wind": "3.0",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-06-09",
+    "Precipitation": "0.0",
+    "Temp_max": "17.2",
+    "Temp_min": "8.3",
+    "Wind": "4.7",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-06-11",
+    "Precipitation": "0.0",
+    "Temp_max": "23.3",
+    "Temp_min": "10.0",
+    "Wind": "1.8",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-06-12",
+    "Precipitation": "0.8",
+    "Temp_max": "18.3",
+    "Temp_min": "12.8",
+    "Wind": "3.9",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-06-16",
+    "Precipitation": "0.0",
+    "Temp_max": "21.1",
+    "Temp_min": "15.0",
+    "Wind": "4.1",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-06-18",
+    "Precipitation": "3.0",
+    "Temp_max": "17.2",
+    "Temp_min": "10.0",
+    "Wind": "3.8",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-06-19",
+    "Precipitation": "1.0",
+    "Temp_max": "19.4",
+    "Temp_min": "10.0",
+    "Wind": "3.0",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-06-22",
+    "Precipitation": "15.7",
+    "Temp_max": "13.9",
+    "Temp_min": "11.7",
+    "Wind": "1.9",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-06-23",
+    "Precipitation": "8.6",
+    "Temp_max": "15.6",
+    "Temp_min": "9.4",
+    "Wind": "2.5",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-06-25",
+    "Precipitation": "0.5",
+    "Temp_max": "19.4",
+    "Temp_min": "11.1",
+    "Wind": "3.1",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-06-26",
+    "Precipitation": "0.0",
+    "Temp_max": "18.3",
+    "Temp_min": "10.6",
+    "Wind": "3.4",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-06-28",
+    "Precipitation": "0.0",
+    "Temp_max": "22.2",
+    "Temp_min": "11.7",
+    "Wind": "2.5",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-06-29",
+    "Precipitation": "0.3",
+    "Temp_max": "21.7",
+    "Temp_min": "15.0",
+    "Wind": "1.9",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-06-30",
+    "Precipitation": "3.0",
+    "Temp_max": "20.0",
+    "Temp_min": "13.3",
+    "Wind": "2.4",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-07-01",
+    "Precipitation": "0.0",
+    "Temp_max": "20.0",
+    "Temp_min": "12.2",
+    "Wind": "2.3",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-07-02",
+    "Precipitation": "2.0",
+    "Temp_max": "18.9",
+    "Temp_min": "11.7",
+    "Wind": "2.1",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-07-03",
+    "Precipitation": "5.8",
+    "Temp_max": "18.3",
+    "Temp_min": "10.6",
+    "Wind": "6.0",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-07-08",
+    "Precipitation": "0.0",
+    "Temp_max": "28.3",
+    "Temp_min": "14.4",
+    "Wind": "2.8",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-07-09",
+    "Precipitation": "1.5",
+    "Temp_max": "25.0",
+    "Temp_min": "12.8",
+    "Wind": "2.0",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-07-13",
+    "Precipitation": "0.5",
+    "Temp_max": "23.3",
+    "Temp_min": "13.9",
+    "Wind": "2.2",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-07-14",
+    "Precipitation": "0.0",
+    "Temp_max": "25.0",
+    "Temp_min": "15.0",
+    "Wind": "2.2",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-07-15",
+    "Precipitation": "0.0",
+    "Temp_max": "18.9",
+    "Temp_min": "13.3",
+    "Wind": "3.8",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-07-16",
+    "Precipitation": "0.3",
+    "Temp_max": "26.1",
+    "Temp_min": "13.3",
+    "Wind": "2.5",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-07-20",
+    "Precipitation": "15.2",
+    "Temp_max": "19.4",
+    "Temp_min": "13.9",
+    "Wind": "4.0",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-07-22",
+    "Precipitation": "1.0",
+    "Temp_max": "20.6",
+    "Temp_min": "12.2",
+    "Wind": "3.9",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-07-23",
+    "Precipitation": "0.0",
+    "Temp_max": "18.9",
+    "Temp_min": "11.1",
+    "Wind": "3.3",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-08-06",
+    "Precipitation": "0.0",
+    "Temp_max": "28.3",
+    "Temp_min": "15.6",
+    "Wind": "2.5",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-08-21",
+    "Precipitation": "0.0",
+    "Temp_max": "23.3",
+    "Temp_min": "13.3",
+    "Wind": "3.0",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-09-09",
+    "Precipitation": "0.3",
+    "Temp_max": "18.9",
+    "Temp_min": "13.9",
+    "Wind": "5.0",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-09-10",
+    "Precipitation": "0.3",
+    "Temp_max": "20.0",
+    "Temp_min": "11.7",
+    "Wind": "3.9",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-09-22",
+    "Precipitation": "0.3",
+    "Temp_max": "19.4",
+    "Temp_min": "11.7",
+    "Wind": "1.1",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-09-28",
+    "Precipitation": "0.0",
+    "Temp_max": "25.0",
+    "Temp_min": "12.2",
+    "Wind": "1.1",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-10-12",
+    "Precipitation": "2.0",
+    "Temp_max": "13.9",
+    "Temp_min": "8.9",
+    "Wind": "4.6",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-10-13",
+    "Precipitation": "4.8",
+    "Temp_max": "15.6",
+    "Temp_min": "12.2",
+    "Wind": "3.9",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-10-14",
+    "Precipitation": "16.5",
+    "Temp_max": "17.8",
+    "Temp_min": "13.3",
+    "Wind": "3.4",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-10-15",
+    "Precipitation": "7.9",
+    "Temp_max": "17.2",
+    "Temp_min": "11.1",
+    "Wind": "4.6",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-10-18",
+    "Precipitation": "20.8",
+    "Temp_max": "17.8",
+    "Temp_min": "6.7",
+    "Wind": "2.0",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-10-19",
+    "Precipitation": "4.8",
+    "Temp_max": "15.0",
+    "Temp_min": "9.4",
+    "Wind": "5.3",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-10-20",
+    "Precipitation": "0.5",
+    "Temp_max": "11.1",
+    "Temp_min": "6.1",
+    "Wind": "5.7",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-10-21",
+    "Precipitation": "6.4",
+    "Temp_max": "11.7",
+    "Temp_min": "4.4",
+    "Wind": "2.7",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-10-22",
+    "Precipitation": "8.9",
+    "Temp_max": "7.8",
+    "Temp_min": "3.3",
+    "Wind": "2.6",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-10-23",
+    "Precipitation": "0.0",
+    "Temp_max": "11.1",
+    "Temp_min": "5.6",
+    "Wind": "3.0",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-10-24",
+    "Precipitation": "7.1",
+    "Temp_max": "11.7",
+    "Temp_min": "6.1",
+    "Wind": "2.1",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-10-26",
+    "Precipitation": "1.5",
+    "Temp_max": "11.1",
+    "Temp_min": "7.2",
+    "Wind": "2.5",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-10-27",
+    "Precipitation": "23.1",
+    "Temp_max": "14.4",
+    "Temp_min": "9.4",
+    "Wind": "5.1",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-10-28",
+    "Precipitation": "6.1",
+    "Temp_max": "14.4",
+    "Temp_min": "10.0",
+    "Wind": "3.8",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-10-29",
+    "Precipitation": "10.9",
+    "Temp_max": "15.6",
+    "Temp_min": "10.0",
+    "Wind": "4.9",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-10-30",
+    "Precipitation": "34.5",
+    "Temp_max": "15.0",
+    "Temp_min": "12.2",
+    "Wind": "2.8",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-10-31",
+    "Precipitation": "14.5",
+    "Temp_max": "15.6",
+    "Temp_min": "11.1",
+    "Wind": "2.7",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-11-01",
+    "Precipitation": "9.7",
+    "Temp_max": "15.0",
+    "Temp_min": "10.6",
+    "Wind": "3.0",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-11-02",
+    "Precipitation": "5.6",
+    "Temp_max": "15.0",
+    "Temp_min": "10.6",
+    "Wind": "1.0",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-11-03",
+    "Precipitation": "0.5",
+    "Temp_max": "15.6",
+    "Temp_min": "11.1",
+    "Wind": "3.6",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-11-04",
+    "Precipitation": "8.1",
+    "Temp_max": "17.8",
+    "Temp_min": "12.8",
+    "Wind": "3.8",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-11-05",
+    "Precipitation": "0.8",
+    "Temp_max": "15.0",
+    "Temp_min": "7.8",
+    "Wind": "4.0",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-11-06",
+    "Precipitation": "0.3",
+    "Temp_max": "12.8",
+    "Temp_min": "6.7",
+    "Wind": "3.5",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-11-07",
+    "Precipitation": "0.0",
+    "Temp_max": "12.2",
+    "Temp_min": "3.9",
+    "Wind": "3.4",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-11-08",
+    "Precipitation": "0.0",
+    "Temp_max": "10.0",
+    "Temp_min": "1.1",
+    "Wind": "3.4",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-11-09",
+    "Precipitation": "0.0",
+    "Temp_max": "8.9",
+    "Temp_min": "1.1",
+    "Wind": "2.0",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-11-11",
+    "Precipitation": "15.2",
+    "Temp_max": "8.9",
+    "Temp_min": "1.1",
+    "Wind": "3.0",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-11-12",
+    "Precipitation": "3.6",
+    "Temp_max": "12.8",
+    "Temp_min": "6.1",
+    "Wind": "3.0",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-11-13",
+    "Precipitation": "5.3",
+    "Temp_max": "11.1",
+    "Temp_min": "7.8",
+    "Wind": "2.5",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-11-14",
+    "Precipitation": "0.8",
+    "Temp_max": "11.1",
+    "Temp_min": "5.0",
+    "Wind": "2.6",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-11-16",
+    "Precipitation": "5.6",
+    "Temp_max": "9.4",
+    "Temp_min": "2.2",
+    "Wind": "1.6",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-11-17",
+    "Precipitation": "6.1",
+    "Temp_max": "12.2",
+    "Temp_min": "6.1",
+    "Wind": "5.3",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-11-18",
+    "Precipitation": "7.9",
+    "Temp_max": "10.0",
+    "Temp_min": "6.1",
+    "Wind": "4.9",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-11-19",
+    "Precipitation": "54.1",
+    "Temp_max": "13.3",
+    "Temp_min": "8.3",
+    "Wind": "6.0",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-11-20",
+    "Precipitation": "3.8",
+    "Temp_max": "11.1",
+    "Temp_min": "7.2",
+    "Wind": "4.2",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-11-21",
+    "Precipitation": "11.2",
+    "Temp_max": "8.3",
+    "Temp_min": "3.9",
+    "Wind": "5.5",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-11-22",
+    "Precipitation": "0.0",
+    "Temp_max": "8.9",
+    "Temp_min": "2.8",
+    "Wind": "1.5",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-11-23",
+    "Precipitation": "32.0",
+    "Temp_max": "9.4",
+    "Temp_min": "6.1",
+    "Wind": "2.4",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-11-24",
+    "Precipitation": "0.0",
+    "Temp_max": "8.9",
+    "Temp_min": "3.9",
+    "Wind": "1.2",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-11-28",
+    "Precipitation": "2.8",
+    "Temp_max": "9.4",
+    "Temp_min": "2.2",
+    "Wind": "2.9",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-11-29",
+    "Precipitation": "1.5",
+    "Temp_max": "12.8",
+    "Temp_min": "7.8",
+    "Wind": "4.2",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-11-30",
+    "Precipitation": "35.6",
+    "Temp_max": "15.0",
+    "Temp_min": "7.8",
+    "Wind": "4.6",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-12-01",
+    "Precipitation": "4.1",
+    "Temp_max": "13.3",
+    "Temp_min": "8.3",
+    "Wind": "5.5",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-12-02",
+    "Precipitation": "19.6",
+    "Temp_max": "8.3",
+    "Temp_min": "7.2",
+    "Wind": "6.2",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-12-03",
+    "Precipitation": "13.0",
+    "Temp_max": "9.4",
+    "Temp_min": "7.2",
+    "Wind": "4.4",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-12-04",
+    "Precipitation": "14.2",
+    "Temp_max": "11.7",
+    "Temp_min": "7.2",
+    "Wind": "6.2",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-12-05",
+    "Precipitation": "1.5",
+    "Temp_max": "8.9",
+    "Temp_min": "4.4",
+    "Wind": "5.0",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-12-06",
+    "Precipitation": "1.5",
+    "Temp_max": "7.2",
+    "Temp_min": "6.1",
+    "Wind": "5.1",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-12-07",
+    "Precipitation": "1.0",
+    "Temp_max": "7.8",
+    "Temp_min": "3.3",
+    "Wind": "4.6",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-12-09",
+    "Precipitation": "1.5",
+    "Temp_max": "6.7",
+    "Temp_min": "2.8",
+    "Wind": "2.1",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-12-10",
+    "Precipitation": "0.5",
+    "Temp_max": "7.2",
+    "Temp_min": "5.6",
+    "Wind": "1.8",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-12-11",
+    "Precipitation": "3.0",
+    "Temp_max": "7.8",
+    "Temp_min": "5.6",
+    "Wind": "4.5",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-12-12",
+    "Precipitation": "8.1",
+    "Temp_max": "6.7",
+    "Temp_min": "4.4",
+    "Wind": "2.0",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-12-13",
+    "Precipitation": "2.3",
+    "Temp_max": "7.2",
+    "Temp_min": "3.3",
+    "Wind": "2.8",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-12-14",
+    "Precipitation": "7.9",
+    "Temp_max": "6.1",
+    "Temp_min": "1.1",
+    "Wind": "1.7",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-12-17",
+    "Precipitation": "2.0",
+    "Temp_max": "8.3",
+    "Temp_min": "1.7",
+    "Wind": "9.5",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-12-20",
+    "Precipitation": "13.2",
+    "Temp_max": "7.2",
+    "Temp_min": "0.6",
+    "Wind": "3.7",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-12-21",
+    "Precipitation": "1.8",
+    "Temp_max": "8.3",
+    "Temp_min": "-1.7",
+    "Wind": "1.7",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-12-22",
+    "Precipitation": "3.3",
+    "Temp_max": "8.3",
+    "Temp_min": "3.9",
+    "Wind": "3.5",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-12-23",
+    "Precipitation": "6.6",
+    "Temp_max": "7.2",
+    "Temp_min": "3.3",
+    "Wind": "2.5",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-12-24",
+    "Precipitation": "0.3",
+    "Temp_max": "5.6",
+    "Temp_min": "2.8",
+    "Wind": "2.8",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-12-26",
+    "Precipitation": "4.6",
+    "Temp_max": "6.7",
+    "Temp_min": "3.3",
+    "Wind": "4.9",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-12-27",
+    "Precipitation": "4.1",
+    "Temp_max": "7.8",
+    "Temp_min": "3.3",
+    "Wind": "3.2",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-12-28",
+    "Precipitation": "0.0",
+    "Temp_max": "8.3",
+    "Temp_min": "3.9",
+    "Wind": "1.7",
+    "Weather": "rain"
+  },
+  {
+    "date": "2012-12-29",
+    "Precipitation": "1.5",
+    "Temp_max": "5.0",
+    "Temp_min": "3.3",
+    "Wind": "1.7",
+    "Weather": "rain"
+  },
+  {
+    "date": "2013-01-03",
+    "Precipitation": "4.1",
+    "Temp_max": "6.7",
+    "Temp_min": "-1.7",
+    "Wind": "3.0",
+    "Weather": "rain"
+  },
+  {
+    "date": "2013-01-04",
+    "Precipitation": "2.5",
+    "Temp_max": "10.0",
+    "Temp_min": "2.2",
+    "Wind": "2.8",
+    "Weather": "rain"
+  },
+  {
+    "date": "2013-01-05",
+    "Precipitation": "3.0",
+    "Temp_max": "6.7",
+    "Temp_min": "4.4",
+    "Wind": "3.1",
+    "Weather": "rain"
+  },
+  {
+    "date": "2013-01-06",
+    "Precipitation": "2.0",
+    "Temp_max": "7.2",
+    "Temp_min": "2.8",
+    "Wind": "3.0",
+    "Weather": "rain"
+  },
+  {
+    "date": "2013-01-07",
+    "Precipitation": "2.3",
+    "Temp_max": "10.0",
+    "Temp_min": "4.4",
+    "Wind": "7.3",
+    "Weather": "rain"
+  },
+  {
+    "date": "2013-01-08",
+    "Precipitation": "16.3",
+    "Temp_max": "11.7",
+    "Temp_min": "5.6",
+    "Wind": "6.3",
+    "Weather": "rain"
+  },
+  {
+    "date": "2013-01-09",
+    "Precipitation": "38.4",
+    "Temp_max": "10.0",
+    "Temp_min": "1.7",
+    "Wind": "5.1",
+    "Weather": "rain"
+  },
+  {
+    "date": "2013-01-23",
+    "Precipitation": "5.1",
+    "Temp_max": "7.2",
+    "Temp_min": "2.2",
+    "Wind": "3.1",
+    "Weather": "rain"
+  },
+  {
+    "date": "2013-01-24",
+    "Precipitation": "5.8",
+    "Temp_max": "7.2",
+    "Temp_min": "1.1",
+    "Wind": "2.6",
+    "Weather": "rain"
+  },
+  {
+    "date": "2013-01-25",
+    "Precipitation": "3.0",
+    "Temp_max": "10.6",
+    "Temp_min": "2.8",
+    "Wind": "2.1",
+    "Weather": "rain"
+  },
+  {
+    "date": "2013-01-26",
+    "Precipitation": "2.3",
+    "Temp_max": "8.3",
+    "Temp_min": "3.9",
+    "Wind": "4.5",
+    "Weather": "rain"
+  },
+  {
+    "date": "2013-01-27",
+    "Precipitation": "1.8",
+    "Temp_max": "5.6",
+    "Temp_min": "3.9",
+    "Wind": "4.5",
+    "Weather": "rain"
+  },
+  {
+    "date": "2013-01-28",
+    "Precipitation": "7.9",
+    "Temp_max": "6.1",
+    "Temp_min": "3.3",
+    "Wind": "3.2",
+    "Weather": "rain"
+  },
+  {
+    "date": "2013-01-29",
+    "Precipitation": "4.3",
+    "Temp_max": "8.3",
+    "Temp_min": "5.0",
+    "Wind": "3.9",
+    "Weather": "rain"
+  },
+  {
+    "date": "2013-01-30",
+    "Precipitation": "3.6",
+    "Temp_max": "8.9",
+    "Temp_min": "6.7",
+    "Wind": "3.9",
+    "Weather": "rain"
+  },
+  {
+    "date": "2013-01-31",
+    "Precipitation": "3.0",
+    "Temp_max": "9.4",
+    "Temp_min": "7.2",
+    "Wind": "4.0",
+    "Weather": "rain"
+  },
+  {
+    "date": "2013-02-01",
+    "Precipitation": "0.3",
+    "Temp_max": "11.7",
+    "Temp_min": "5.0",
+    "Wind": "2.9",
+    "Weather": "rain"
+  },
+  {
+    "date": "2013-02-03",
+    "Precipitation": "2.3",
+    "Temp_max": "8.9",
+    "Temp_min": "2.8",
+    "Wind": "2.9",
+    "Weather": "rain"
+  },
+  {
+    "date": "2013-02-04",
+    "Precipitation": "0.0",
+    "Temp_max": "10.6",
+    "Temp_min": "6.7",
+    "Wind": "2.6",
+    "Weather": "rain"
+  },
+  {
+    "date": "2013-02-05",
+    "Precipitation": "3.3",
+    "Temp_max": "10.0",
+    "Temp_min": "6.7",
+    "Wind": "5.1",
+    "Weather": "rain"
+  },
+  {
+    "date": "2013-02-06",
+    "Precipitation": "1.0",
+    "Temp_max": "10.6",
+    "Temp_min": "6.1",
+    "Wind": "4.5",
+    "Weather": "rain"
+  },
+  {
+    "date": "2013-02-07",
+    "Precipitation": "1.3",
+    "Temp_max": "9.4",
+    "Temp_min": "3.3",
+    "Wind": "4.1",
+    "Weather": "rain"
+  },
+  {
+    "date": "2013-02-09",
+    "Precipitation": "0.3",
+    "Temp_max": "8.3",
+    "Temp_min": "4.4",
+    "Wind": "1.3",
+    "Weather": "rain"
+  },
+  {
+    "date": "2013-02-11",
+    "Precipitation": "0.3",
+    "Temp_max": "8.3",
+    "Temp_min": "4.4",
+    "Wind": "1.4",
+    "Weather": "rain"
+  },
+  {
+    "date": "2013-02-12",
+    "Precipitation": "1.0",
+    "Temp_max": "11.1",
+    "Temp_min": "7.2",
+    "Wind": "5.6",
+    "Weather": "rain"
+  },
+  {
+    "date": "2013-02-13",
+    "Precipitation": "2.3",
+    "Temp_max": "9.4",
+    "Temp_min": "7.2",
+    "Wind": "4.1",
+    "Weather": "rain"
+  },
+  {
+    "date": "2013-02-14",
+    "Precipitation": "1.0",
+    "Temp_max": "9.4",
+    "Temp_min": "5.6",
+    "Wind": "2.2",
+    "Weather": "rain"
+  },
+  {
+    "date": "2013-02-16",
+    "Precipitation": "0.0",
+    "Temp_max": "11.1",
+    "Temp_min": "3.9",
+    "Wind": "5.6",
+    "Weather": "rain"
+  },
+  {
+    "date": "2013-02-17",
+    "Precipitation": "0.0",
+    "Temp_max": "9.4",
+    "Temp_min": "4.4",
+    "Wind": "3.4",
+    "Weather": "rain"
+  },
+  {
+    "date": "2013-02-18",
+    "Precipitation": "0.0",
+    "Temp_max": "7.8",
+    "Temp_min": "3.9",
+    "Wind": "1.9",
+    "Weather": "rain"
+  },
+  {
+    "date": "2013-02-20",
+    "Precipitation": "1.5",
+    "Temp_max": "7.8",
+    "Temp_min": "1.1",
+    "Wind": "2.1",
+    "Weather": "rain"
+  },
+  {
+    "date": "2013-02-21",
+    "Precipitation": "0.5",
+    "Temp_max": "6.7",
+    "Temp_min": "3.9",
+    "Wind": "6.2",
+    "Weather": "rain"
+  },
+  {
+    "date": "2013-02-22",
+    "Precipitation": "9.4",
+    "Temp_max": "7.8",
+    "Temp_min": "3.9",
+    "Wind": "8.1",
+    "Weather": "rain"
+  },
+  {
+    "date": "2013-02-23",
+    "Precipitation": "0.3",
+    "Temp_max": "10.0",
+    "Temp_min": "3.9",
+    "Wind": "4.6",
+    "Weather": "rain"
+  },
+  {
+    "date": "2013-02-24",
+    "Precipitation": "0.0",
+    "Temp_max": "8.9",
+    "Temp_min": "5.0",
+    "Wind": "5.5",
+    "Weather": "rain"
+  },
+  {
+    "date": "2013-02-25",
+    "Precipitation": "2.3",
+    "Temp_max": "10.6",
+    "Temp_min": "3.3",
+    "Wind": "7.1",
+    "Weather": "rain"
+  },
+  {
+    "date": "2013-02-26",
+    "Precipitation": "0.5",
+    "Temp_max": "8.9",
+    "Temp_min": "3.9",
+    "Wind": "3.8",
+    "Weather": "rain"
+  },
+  {
+    "date": "2013-02-27",
+    "Precipitation": "4.6",
+    "Temp_max": "10.0",
+    "Temp_min": "4.4",
+    "Wind": "1.8",
+    "Weather": "rain"
+  },
+  {
+    "date": "2013-02-28",
+    "Precipitation": "8.1",
+    "Temp_max": "11.7",
+    "Temp_min": "6.7",
+    "Wind": "3.8",
+    "Weather": "rain"
+  },
+  {
+    "date": "2013-03-01",
+    "Precipitation": "4.1",
+    "Temp_max": "15.0",
+    "Temp_min": "11.1",
+    "Wind": "5.4",
+    "Weather": "rain"
+  },
+  {
+    "date": "2013-03-02",
+    "Precipitation": "0.8",
+    "Temp_max": "13.9",
+    "Temp_min": "5.0",
+    "Wind": "4.5",
+    "Weather": "rain"
+  },
+  {
+    "date": "2013-03-05",
+    "Precipitation": "0.0",
+    "Temp_max": "9.4",
+    "Temp_min": "6.1",
+    "Wind": "2.4",
+    "Weather": "rain"
+  },
+  {
+    "date": "2013-03-06",
+    "Precipitation": "11.9",
+    "Temp_max": "7.2",
+    "Temp_min": "5.0",
+    "Wind": "4.1",
+    "Weather": "rain"
+  },
+  {
+    "date": "2013-03-07",
+    "Precipitation": "7.4",
+    "Temp_max": "12.2",
+    "Temp_min": "5.0",
+    "Wind": "2.5",
+    "Weather": "rain"
+  },
+  {
+    "date": "2013-03-10",
+    "Precipitation": "0.8",
+    "Temp_max": "7.8",
+    "Temp_min": "3.9",
+    "Wind": "1.6",
+    "Weather": "rain"
+  },
+  {
+    "date": "2013-03-11",
+    "Precipitation": "1.3",
+    "Temp_max": "10.6",
+    "Temp_min": "6.1",
+    "Wind": "1.1",
+    "Weather": "rain"
+  },
+  {
+    "date": "2013-03-12",
+    "Precipitation": "2.0",
+    "Temp_max": "12.8",
+    "Temp_min": "10.0",
+    "Wind": "5.7",
+    "Weather": "rain"
+  },
+  {
+    "date": "2013-03-13",
+    "Precipitation": "2.3",
+    "Temp_max": "11.7",
+    "Temp_min": "9.4",
+    "Wind": "3.7",
+    "Weather": "rain"
+  },
+  {
+    "date": "2013-03-14",
+    "Precipitation": "2.8",
+    "Temp_max": "11.7",
+    "Temp_min": "9.4",
+    "Wind": "3.0",
+    "Weather": "rain"
+  },
+  {
+    "date": "2013-03-15",
+    "Precipitation": "0.0",
+    "Temp_max": "14.4",
+    "Temp_min": "8.9",
+    "Wind": "4.3",
+    "Weather": "rain"
+  },
+  {
+    "date": "2013-03-16",
+    "Precipitation": "4.3",
+    "Temp_max": "10.6",
+    "Temp_min": "4.4",
+    "Wind": "6.4",
+    "Weather": "rain"
+  },
+  {
+    "date": "2013-03-18",
+    "Precipitation": "0.0",
+    "Temp_max": "11.7",
+    "Temp_min": "3.9",
+    "Wind": "5.9",
+    "Weather": "rain"
+  },
+  {
+    "date": "2013-03-19",
+    "Precipitation": "11.7",
+    "Temp_max": "12.8",
+    "Temp_min": "1.7",
+    "Wind": "3.4",
+    "Weather": "rain"
+  },
+  {
+    "date": "2013-03-20",
+    "Precipitation": "9.9",
+    "Temp_max": "11.1",
+    "Temp_min": "4.4",
+    "Wind": "7.6",
+    "Weather": "rain"
+  },
+  {
+    "date": "2013-03-27",
+    "Precipitation": "0.3",
+    "Temp_max": "13.3",
+    "Temp_min": "7.2",
+    "Wind": "1.6",
+    "Weather": "rain"
+  },
+  {
+    "date": "2013-03-28",
+    "Precipitation": "2.0",
+    "Temp_max": "16.1",
+    "Temp_min": "8.3",
+    "Wind": "1.3",
+    "Weather": "rain"
+  },
+  {
+    "date": "2013-03-29",
+    "Precipitation": "0.0",
+    "Temp_max": "18.3",
+    "Temp_min": "7.8",
+    "Wind": "2.5",
+    "Weather": "rain"
+  },
+  {
+    "date": "2013-04-04",
+    "Precipitation": "8.4",
+    "Temp_max": "14.4",
+    "Temp_min": "10.0",
+    "Wind": "3.0",
+    "Weather": "rain"
+  },
+  {
+    "date": "2013-04-05",
+    "Precipitation": "18.5",
+    "Temp_max": "13.9",
+    "Temp_min": "10.0",
+    "Wind": "5.6",
+    "Weather": "rain"
+  },
+  {
+    "date": "2013-04-06",
+    "Precipitation": "12.7",
+    "Temp_max": "12.2",
+    "Temp_min": "7.2",
+    "Wind": "5.0",
+    "Weather": "rain"
+  },
+  {
+    "date": "2013-04-07",
+    "Precipitation": "39.1",
+    "Temp_max": "8.3",
+    "Temp_min": "5.0",
+    "Wind": "3.9",
+    "Weather": "rain"
+  },
+  {
+    "date": "2013-04-08",
+    "Precipitation": "0.8",
+    "Temp_max": "13.3",
+    "Temp_min": "6.1",
+    "Wind": "3.1",
+    "Weather": "rain"
+  },
+  {
+    "date": "2013-04-10",
+    "Precipitation": "9.4",
+    "Temp_max": "15.0",
+    "Temp_min": "8.9",
+    "Wind": "6.4",
+    "Weather": "rain"
+  },
+  {
+    "date": "2013-04-11",
+    "Precipitation": "1.5",
+    "Temp_max": "12.2",
+    "Temp_min": "6.7",
+    "Wind": "3.8",
+    "Weather": "rain"
+  },
+  {
+    "date": "2013-04-12",
+    "Precipitation": "9.7",
+    "Temp_max": "7.8",
+    "Temp_min": "4.4",
+    "Wind": "4.6",
+    "Weather": "rain"
+  },
+  {
+    "date": "2013-04-13",
+    "Precipitation": "9.4",
+    "Temp_max": "10.6",
+    "Temp_min": "3.3",
+    "Wind": "5.7",
+    "Weather": "rain"
+  },
+  {
+    "date": "2013-04-14",
+    "Precipitation": "5.8",
+    "Temp_max": "12.8",
+    "Temp_min": "4.4",
+    "Wind": "2.3",
+    "Weather": "rain"
+  },
+  {
+    "date": "2013-04-16",
+    "Precipitation": "0.3",
+    "Temp_max": "13.9",
+    "Temp_min": "3.3",
+    "Wind": "2.6",
+    "Weather": "rain"
+  },
+  {
+    "date": "2013-04-18",
+    "Precipitation": "5.3",
+    "Temp_max": "11.7",
+    "Temp_min": "6.7",
+    "Wind": "4.0",
+    "Weather": "rain"
+  },
+  {
+    "date": "2013-04-19",
+    "Precipitation": "20.6",
+    "Temp_max": "13.3",
+    "Temp_min": "9.4",
+    "Wind": "4.9",
+    "Weather": "rain"
+  },
+  {
+    "date": "2013-04-21",
+    "Precipitation": "3.3",
+    "Temp_max": "12.2",
+    "Temp_min": "6.7",
+    "Wind": "4.1",
+    "Weather": "rain"
+  },
+  {
+    "date": "2013-04-28",
+    "Precipitation": "1.0",
+    "Temp_max": "15.0",
+    "Temp_min": "9.4",
+    "Wind": "5.2",
+    "Weather": "rain"
+  },
+  {
+    "date": "2013-04-29",
+    "Precipitation": "3.8",
+    "Temp_max": "13.9",
+    "Temp_min": "6.7",
+    "Wind": "4.2",
+    "Weather": "rain"
+  },
+  {
+    "date": "2013-05-12",
+    "Precipitation": "6.6",
+    "Temp_max": "21.7",
+    "Temp_min": "13.9",
+    "Wind": "3.9",
+    "Weather": "rain"
+  },
+  {
+    "date": "2013-05-13",
+    "Precipitation": "3.3",
+    "Temp_max": "18.9",
+    "Temp_min": "9.4",
+    "Wind": "5.0",
+    "Weather": "rain"
+  },
+  {
+    "date": "2013-05-15",
+    "Precipitation": "1.0",
+    "Temp_max": "17.2",
+    "Temp_min": "8.9",
+    "Wind": "2.3",
+    "Weather": "rain"
+  },
+  {
+    "date": "2013-05-17",
+    "Precipitation": "0.5",
+    "Temp_max": "17.2",
+    "Temp_min": "11.7",
+    "Wind": "3.7",
+    "Weather": "rain"
+  },
+  {
+    "date": "2013-05-21",
+    "Precipitation": "13.7",
+    "Temp_max": "15.6",
+    "Temp_min": "8.3",
+    "Wind": "4.8",
+    "Weather": "rain"
+  },
+  {
+    "date": "2013-05-22",
+    "Precipitation": "13.7",
+    "Temp_max": "11.1",
+    "Temp_min": "7.2",
+    "Wind": "3.0",
+    "Weather": "rain"
+  },
+  {
+    "date": "2013-05-23",
+    "Precipitation": "4.1",
+    "Temp_max": "12.2",
+    "Temp_min": "6.7",
+    "Wind": "1.9",
+    "Weather": "rain"
+  },
+  {
+    "date": "2013-05-24",
+    "Precipitation": "0.3",
+    "Temp_max": "16.7",
+    "Temp_min": "8.9",
+    "Wind": "2.7",
+    "Weather": "rain"
+  },
+  {
+    "date": "2013-05-26",
+    "Precipitation": "1.5",
+    "Temp_max": "18.3",
+    "Temp_min": "10.6",
+    "Wind": "2.2",
+    "Weather": "rain"
+  },
+  {
+    "date": "2013-05-27",
+    "Precipitation": "9.7",
+    "Temp_max": "16.7",
+    "Temp_min": "11.1",
+    "Wind": "3.1",
+    "Weather": "rain"
+  },
+  {
+    "date": "2013-05-28",
+    "Precipitation": "0.5",
+    "Temp_max": "17.2",
+    "Temp_min": "11.7",
+    "Wind": "2.8",
+    "Weather": "rain"
+  },
+  {
+    "date": "2013-05-29",
+    "Precipitation": "5.6",
+    "Temp_max": "16.1",
+    "Temp_min": "9.4",
+    "Wind": "4.0",
+    "Weather": "rain"
+  },
+  {
+    "date": "2013-06-02",
+    "Precipitation": "1.0",
+    "Temp_max": "20.6",
+    "Temp_min": "12.2",
+    "Wind": "3.1",
+    "Weather": "rain"
+  },
+  {
+    "date": "2013-06-12",
+    "Precipitation": "0.3",
+    "Temp_max": "20.6",
+    "Temp_min": "11.7",
+    "Wind": "4.2",
+    "Weather": "rain"
+  },
+  {
+    "date": "2013-06-18",
+    "Precipitation": "0.3",
+    "Temp_max": "23.3",
+    "Temp_min": "13.3",
+    "Wind": "3.4",
+    "Weather": "rain"
+  },
+  {
+    "date": "2013-06-20",
+    "Precipitation": "3.0",
+    "Temp_max": "17.2",
+    "Temp_min": "12.8",
+    "Wind": "5.0",
+    "Weather": "rain"
+  },
+  {
+    "date": "2013-06-21",
+    "Precipitation": "0.3",
+    "Temp_max": "20.6",
+    "Temp_min": "12.2",
+    "Wind": "1.5",
+    "Weather": "rain"
+  },
+  {
+    "date": "2013-06-23",
+    "Precipitation": "7.9",
+    "Temp_max": "22.2",
+    "Temp_min": "15.0",
+    "Wind": "2.1",
+    "Weather": "rain"
+  },
+  {
+    "date": "2013-06-24",
+    "Precipitation": "4.8",
+    "Temp_max": "21.1",
+    "Temp_min": "13.9",
+    "Wind": "3.7",
+    "Weather": "rain"
+  },
+  {
+    "date": "2013-06-25",
+    "Precipitation": "9.9",
+    "Temp_max": "23.3",
+    "Temp_min": "14.4",
+    "Wind": "2.8",
+    "Weather": "rain"
+  },
+  {
+    "date": "2013-06-26",
+    "Precipitation": "2.0",
+    "Temp_max": "22.2",
+    "Temp_min": "15.0",
+    "Wind": "2.3",
+    "Weather": "rain"
+  },
+  {
+    "date": "2013-06-27",
+    "Precipitation": "3.6",
+    "Temp_max": "21.1",
+    "Temp_min": "16.7",
+    "Wind": "1.3",
+    "Weather": "rain"
+  },
+  {
+    "date": "2013-08-02",
+    "Precipitation": "2.0",
+    "Temp_max": "17.2",
+    "Temp_min": "15.0",
+    "Wind": "2.0",
+    "Weather": "rain"
+  },
+  {
+    "date": "2013-08-10",
+    "Precipitation": "2.3",
+    "Temp_max": "25.6",
+    "Temp_min": "15.0",
+    "Wind": "2.9",
+    "Weather": "rain"
+  },
+  {
+    "date": "2013-08-14",
+    "Precipitation": "0.8",
+    "Temp_max": "27.2",
+    "Temp_min": "15.0",
+    "Wind": "2.0",
+    "Weather": "rain"
+  },
+  {
+    "date": "2013-08-15",
+    "Precipitation": "1.8",
+    "Temp_max": "21.1",
+    "Temp_min": "17.2",
+    "Wind": "1.0",
+    "Weather": "rain"
+  },
+  {
+    "date": "2013-08-25",
+    "Precipitation": "0.3",
+    "Temp_max": "22.2",
+    "Temp_min": "16.1",
+    "Wind": "2.6",
+    "Weather": "rain"
+  },
+  {
+    "date": "2013-08-26",
+    "Precipitation": "1.0",
+    "Temp_max": "24.4",
+    "Temp_min": "16.1",
+    "Wind": "1.9",
+    "Weather": "rain"
+  },
+  {
+    "date": "2013-08-27",
+    "Precipitation": "1.3",
+    "Temp_max": "26.7",
+    "Temp_min": "17.2",
+    "Wind": "1.4",
+    "Weather": "rain"
+  },
+  {
+    "date": "2013-08-28",
+    "Precipitation": "5.6",
+    "Temp_max": "26.7",
+    "Temp_min": "15.6",
+    "Wind": "1.3",
+    "Weather": "rain"
+  },
+  {
+    "date": "2013-08-29",
+    "Precipitation": "19.3",
+    "Temp_max": "23.9",
+    "Temp_min": "18.3",
+    "Wind": "3.0",
+    "Weather": "rain"
+  },
+  {
+    "date": "2013-09-03",
+    "Precipitation": "2.3",
+    "Temp_max": "25.0",
+    "Temp_min": "16.7",
+    "Wind": "1.7",
+    "Weather": "rain"
+  },
+  {
+    "date": "2013-09-04",
+    "Precipitation": "0.3",
+    "Temp_max": "22.8",
+    "Temp_min": "16.1",
+    "Wind": "2.4",
+    "Weather": "rain"
+  },
+  {
+    "date": "2013-09-05",
+    "Precipitation": "27.7",
+    "Temp_max": "20.0",
+    "Temp_min": "15.6",
+    "Wind": "2.5",
+    "Weather": "rain"
+  },
+  {
+    "date": "2013-09-06",
+    "Precipitation": "21.3",
+    "Temp_max": "21.7",
+    "Temp_min": "16.1",
+    "Wind": "2.6",
+    "Weather": "rain"
+  },
+  {
+    "date": "2013-09-15",
+    "Precipitation": "3.3",
+    "Temp_max": "18.9",
+    "Temp_min": "14.4",
+    "Wind": "2.2",
+    "Weather": "rain"
+  },
+  {
+    "date": "2013-09-16",
+    "Precipitation": "0.3",
+    "Temp_max": "21.7",
+    "Temp_min": "15.0",
+    "Wind": "4.3",
+    "Weather": "rain"
+  },
+  {
+    "date": "2013-09-20",
+    "Precipitation": "3.6",
+    "Temp_max": "23.3",
+    "Temp_min": "13.3",
+    "Wind": "3.0",
+    "Weather": "rain"
+  },
+  {
+    "date": "2013-09-22",
+    "Precipitation": "13.5",
+    "Temp_max": "17.2",
+    "Temp_min": "13.3",
+    "Wind": "5.5",
+    "Weather": "rain"
+  },
+  {
+    "date": "2013-09-23",
+    "Precipitation": "2.8",
+    "Temp_max": "16.1",
+    "Temp_min": "11.1",
+    "Wind": "4.5",
+    "Weather": "rain"
+  },
+  {
+    "date": "2013-09-25",
+    "Precipitation": "2.0",
+    "Temp_max": "16.1",
+    "Temp_min": "9.4",
+    "Wind": "3.0",
+    "Weather": "rain"
+  },
+  {
+    "date": "2013-09-27",
+    "Precipitation": "1.0",
+    "Temp_max": "13.9",
+    "Temp_min": "10.6",
+    "Wind": "4.3",
+    "Weather": "rain"
+  },
+  {
+    "date": "2013-09-28",
+    "Precipitation": "43.4",
+    "Temp_max": "16.7",
+    "Temp_min": "11.7",
+    "Wind": "6.0",
+    "Weather": "rain"
+  },
+  {
+    "date": "2013-09-29",
+    "Precipitation": "16.8",
+    "Temp_max": "14.4",
+    "Temp_min": "11.1",
+    "Wind": "7.1",
+    "Weather": "rain"
+  },
+  {
+    "date": "2013-09-30",
+    "Precipitation": "18.5",
+    "Temp_max": "13.9",
+    "Temp_min": "10.0",
+    "Wind": "6.3",
+    "Weather": "rain"
+  },
+  {
+    "date": "2013-10-01",
+    "Precipitation": "7.9",
+    "Temp_max": "14.4",
+    "Temp_min": "8.9",
+    "Wind": "4.7",
+    "Weather": "rain"
+  },
+  {
+    "date": "2013-10-02",
+    "Precipitation": "5.3",
+    "Temp_max": "12.8",
+    "Temp_min": "9.4",
+    "Wind": "2.4",
+    "Weather": "rain"
+  },
+  {
+    "date": "2013-10-03",
+    "Precipitation": "0.8",
+    "Temp_max": "14.4",
+    "Temp_min": "8.9",
+    "Wind": "0.9",
+    "Weather": "rain"
+  },
+  {
+    "date": "2013-10-06",
+    "Precipitation": "4.1",
+    "Temp_max": "22.8",
+    "Temp_min": "7.8",
+    "Wind": "2.6",
+    "Weather": "rain"
+  },
+  {
+    "date": "2013-10-07",
+    "Precipitation": "0.5",
+    "Temp_max": "16.1",
+    "Temp_min": "11.7",
+    "Wind": "6.3",
+    "Weather": "rain"
+  },
+  {
+    "date": "2013-10-08",
+    "Precipitation": "6.9",
+    "Temp_max": "13.9",
+    "Temp_min": "7.8",
+    "Wind": "3.0",
+    "Weather": "rain"
+  },
+  {
+    "date": "2013-10-10",
+    "Precipitation": "1.0",
+    "Temp_max": "14.4",
+    "Temp_min": "8.3",
+    "Wind": "1.7",
+    "Weather": "rain"
+  },
+  {
+    "date": "2013-10-11",
+    "Precipitation": "9.1",
+    "Temp_max": "13.9",
+    "Temp_min": "10.6",
+    "Wind": "1.0",
+    "Weather": "rain"
+  },
+  {
+    "date": "2013-10-12",
+    "Precipitation": "1.0",
+    "Temp_max": "14.4",
+    "Temp_min": "8.9",
+    "Wind": "2.2",
+    "Weather": "rain"
+  },
+  {
+    "date": "2013-10-27",
+    "Precipitation": "1.8",
+    "Temp_max": "13.9",
+    "Temp_min": "8.3",
+    "Wind": "4.4",
+    "Weather": "rain"
+  },
+  {
+    "date": "2013-10-30",
+    "Precipitation": "0.5",
+    "Temp_max": "15.0",
+    "Temp_min": "5.6",
+    "Wind": "3.9",
+    "Weather": "rain"
+  },
+  {
+    "date": "2013-10-31",
+    "Precipitation": "0.3",
+    "Temp_max": "14.4",
+    "Temp_min": "10.6",
+    "Wind": "2.2",
+    "Weather": "rain"
+  },
+  {
+    "date": "2013-11-01",
+    "Precipitation": "1.3",
+    "Temp_max": "17.8",
+    "Temp_min": "11.7",
+    "Wind": "1.4",
+    "Weather": "rain"
+  },
+  {
+    "date": "2013-11-02",
+    "Precipitation": "12.7",
+    "Temp_max": "14.4",
+    "Temp_min": "8.3",
+    "Wind": "7.9",
+    "Weather": "rain"
+  },
+  {
+    "date": "2013-11-03",
+    "Precipitation": "0.5",
+    "Temp_max": "12.2",
+    "Temp_min": "4.4",
+    "Wind": "2.4",
+    "Weather": "rain"
+  },
+  {
+    "date": "2013-11-05",
+    "Precipitation": "2.5",
+    "Temp_max": "13.3",
+    "Temp_min": "7.2",
+    "Wind": "3.1",
+    "Weather": "rain"
+  },
+  {
+    "date": "2013-11-06",
+    "Precipitation": "3.8",
+    "Temp_max": "12.8",
+    "Temp_min": "7.8",
+    "Wind": "1.7",
+    "Weather": "rain"
+  },
+  {
+    "date": "2013-11-07",
+    "Precipitation": "30.0",
+    "Temp_max": "11.1",
+    "Temp_min": "10.0",
+    "Wind": "7.2",
+    "Weather": "rain"
+  },
+  {
+    "date": "2013-11-09",
+    "Precipitation": "1.8",
+    "Temp_max": "11.1",
+    "Temp_min": "5.0",
+    "Wind": "1.4",
+    "Weather": "rain"
+  },
+  {
+    "date": "2013-11-12",
+    "Precipitation": "4.1",
+    "Temp_max": "15.6",
+    "Temp_min": "8.9",
+    "Wind": "2.2",
+    "Weather": "rain"
+  },
+  {
+    "date": "2013-11-14",
+    "Precipitation": "1.3",
+    "Temp_max": "11.1",
+    "Temp_min": "6.1",
+    "Wind": "1.1",
+    "Weather": "rain"
+  },
+  {
+    "date": "2013-11-15",
+    "Precipitation": "3.0",
+    "Temp_max": "10.6",
+    "Temp_min": "7.2",
+    "Wind": "6.0",
+    "Weather": "rain"
+  },
+  {
+    "date": "2013-11-17",
+    "Precipitation": "5.3",
+    "Temp_max": "11.7",
+    "Temp_min": "7.2",
+    "Wind": "5.4",
+    "Weather": "rain"
+  },
+  {
+    "date": "2013-11-18",
+    "Precipitation": "26.2",
+    "Temp_max": "12.8",
+    "Temp_min": "9.4",
+    "Wind": "3.9",
+    "Weather": "rain"
+  },
+  {
+    "date": "2013-11-19",
+    "Precipitation": "1.0",
+    "Temp_max": "13.3",
+    "Temp_min": "4.4",
+    "Wind": "5.1",
+    "Weather": "rain"
+  },
+  {
+    "date": "2013-11-29",
+    "Precipitation": "0.5",
+    "Temp_max": "9.4",
+    "Temp_min": "5.0",
+    "Wind": "2.1",
+    "Weather": "rain"
+  },
+  {
+    "date": "2013-11-30",
+    "Precipitation": "2.3",
+    "Temp_max": "11.1",
+    "Temp_min": "7.2",
+    "Wind": "3.9",
+    "Weather": "rain"
+  },
+  {
+    "date": "2013-12-01",
+    "Precipitation": "3.0",
+    "Temp_max": "13.3",
+    "Temp_min": "7.8",
+    "Wind": "8.8",
+    "Weather": "rain"
+  },
+  {
+    "date": "2013-12-02",
+    "Precipitation": "4.6",
+    "Temp_max": "7.8",
+    "Temp_min": "1.7",
+    "Wind": "3.5",
+    "Weather": "rain"
+  },
+  {
+    "date": "2013-12-12",
+    "Precipitation": "6.9",
+    "Temp_max": "5.6",
+    "Temp_min": "-0.5",
+    "Wind": "2.3",
+    "Weather": "rain"
+  },
+  {
+    "date": "2013-12-13",
+    "Precipitation": "0.5",
+    "Temp_max": "9.4",
+    "Temp_min": "5.6",
+    "Wind": "2.9",
+    "Weather": "rain"
+  },
+  {
+    "date": "2013-12-15",
+    "Precipitation": "1.3",
+    "Temp_max": "11.7",
+    "Temp_min": "8.3",
+    "Wind": "3.9",
+    "Weather": "rain"
+  },
+  {
+    "date": "2013-12-16",
+    "Precipitation": "0.3",
+    "Temp_max": "10.0",
+    "Temp_min": "4.4",
+    "Wind": "1.0",
+    "Weather": "rain"
+  },
+  {
+    "date": "2013-12-18",
+    "Precipitation": "1.3",
+    "Temp_max": "7.8",
+    "Temp_min": "2.2",
+    "Wind": "2.8",
+    "Weather": "rain"
+  },
+  {
+    "date": "2013-12-21",
+    "Precipitation": "5.6",
+    "Temp_max": "8.9",
+    "Temp_min": "5.6",
+    "Wind": "2.3",
+    "Weather": "rain"
+  },
+  {
+    "date": "2013-12-22",
+    "Precipitation": "10.7",
+    "Temp_max": "10.6",
+    "Temp_min": "8.3",
+    "Wind": "4.0",
+    "Weather": "rain"
+  },
+  {
+    "date": "2013-12-23",
+    "Precipitation": "1.5",
+    "Temp_max": "11.7",
+    "Temp_min": "6.1",
+    "Wind": "5.9",
+    "Weather": "rain"
+  },
+  {
+    "date": "2013-12-27",
+    "Precipitation": "0.3",
+    "Temp_max": "8.9",
+    "Temp_min": "0.0",
+    "Wind": "2.1",
+    "Weather": "rain"
+  },
+  {
+    "date": "2013-12-30",
+    "Precipitation": "0.3",
+    "Temp_max": "8.9",
+    "Temp_min": "4.4",
+    "Wind": "2.6",
+    "Weather": "rain"
+  },
+  {
+    "date": "2013-12-31",
+    "Precipitation": "0.5",
+    "Temp_max": "8.3",
+    "Temp_min": "5.0",
+    "Wind": "1.7",
+    "Weather": "rain"
+  },
+  {
+    "date": "2014-01-02",
+    "Precipitation": "4.1",
+    "Temp_max": "10.6",
+    "Temp_min": "6.1",
+    "Wind": "3.2",
+    "Weather": "rain"
+  },
+  {
+    "date": "2014-01-03",
+    "Precipitation": "1.5",
+    "Temp_max": "8.9",
+    "Temp_min": "2.8",
+    "Wind": "2.6",
+    "Weather": "rain"
+  },
+  {
+    "date": "2014-01-06",
+    "Precipitation": "0.3",
+    "Temp_max": "7.8",
+    "Temp_min": "-0.5",
+    "Wind": "2.6",
+    "Weather": "rain"
+  },
+  {
+    "date": "2014-01-07",
+    "Precipitation": "12.2",
+    "Temp_max": "8.3",
+    "Temp_min": "5.0",
+    "Wind": "1.6",
+    "Weather": "rain"
+  },
+  {
+    "date": "2014-01-08",
+    "Precipitation": "9.7",
+    "Temp_max": "10.0",
+    "Temp_min": "7.2",
+    "Wind": "4.6",
+    "Weather": "rain"
+  },
+  {
+    "date": "2014-01-09",
+    "Precipitation": "5.8",
+    "Temp_max": "9.4",
+    "Temp_min": "5.6",
+    "Wind": "6.3",
+    "Weather": "rain"
+  },
+  {
+    "date": "2014-01-10",
+    "Precipitation": "4.3",
+    "Temp_max": "12.8",
+    "Temp_min": "8.3",
+    "Wind": "7.0",
+    "Weather": "rain"
+  },
+  {
+    "date": "2014-01-11",
+    "Precipitation": "21.3",
+    "Temp_max": "14.4",
+    "Temp_min": "7.2",
+    "Wind": "8.8",
+    "Weather": "rain"
+  },
+  {
+    "date": "2014-01-12",
+    "Precipitation": "1.5",
+    "Temp_max": "11.1",
+    "Temp_min": "5.6",
+    "Wind": "8.1",
+    "Weather": "rain"
+  },
+  {
+    "date": "2014-01-22",
+    "Precipitation": "0.5",
+    "Temp_max": "9.4",
+    "Temp_min": "5.6",
+    "Wind": "2.6",
+    "Weather": "rain"
+  },
+  {
+    "date": "2014-01-28",
+    "Precipitation": "8.9",
+    "Temp_max": "11.1",
+    "Temp_min": "6.1",
+    "Wind": "1.6",
+    "Weather": "rain"
+  },
+  {
+    "date": "2014-01-29",
+    "Precipitation": "21.6",
+    "Temp_max": "11.1",
+    "Temp_min": "7.2",
+    "Wind": "3.4",
+    "Weather": "rain"
+  },
+  {
+    "date": "2014-01-31",
+    "Precipitation": "2.3",
+    "Temp_max": "7.8",
+    "Temp_min": "5.6",
+    "Wind": "2.6",
+    "Weather": "rain"
+  },
+  {
+    "date": "2014-02-01",
+    "Precipitation": "2.0",
+    "Temp_max": "7.8",
+    "Temp_min": "2.8",
+    "Wind": "0.8",
+    "Weather": "rain"
+  },
+  {
+    "date": "2014-02-09",
+    "Precipitation": "0.5",
+    "Temp_max": "3.9",
+    "Temp_min": "0.0",
+    "Wind": "2.4",
+    "Weather": "rain"
+  },
+  {
+    "date": "2014-02-10",
+    "Precipitation": "18.3",
+    "Temp_max": "10.0",
+    "Temp_min": "2.2",
+    "Wind": "4.7",
+    "Weather": "rain"
+  },
+  {
+    "date": "2014-02-11",
+    "Precipitation": "17.0",
+    "Temp_max": "12.2",
+    "Temp_min": "5.6",
+    "Wind": "3.8",
+    "Weather": "rain"
+  },
+  {
+    "date": "2014-02-12",
+    "Precipitation": "4.6",
+    "Temp_max": "12.2",
+    "Temp_min": "7.2",
+    "Wind": "6.4",
+    "Weather": "rain"
+  },
+  {
+    "date": "2014-02-13",
+    "Precipitation": "1.8",
+    "Temp_max": "12.8",
+    "Temp_min": "7.8",
+    "Wind": "6.3",
+    "Weather": "rain"
+  },
+  {
+    "date": "2014-02-14",
+    "Precipitation": "9.4",
+    "Temp_max": "11.7",
+    "Temp_min": "6.1",
+    "Wind": "6.4",
+    "Weather": "rain"
+  },
+  {
+    "date": "2014-02-15",
+    "Precipitation": "11.7",
+    "Temp_max": "11.1",
+    "Temp_min": "5.0",
+    "Wind": "5.1",
+    "Weather": "rain"
+  },
+  {
+    "date": "2014-02-16",
+    "Precipitation": "26.4",
+    "Temp_max": "9.4",
+    "Temp_min": "3.9",
+    "Wind": "7.9",
+    "Weather": "rain"
+  },
+  {
+    "date": "2014-02-17",
+    "Precipitation": "14.5",
+    "Temp_max": "8.3",
+    "Temp_min": "4.4",
+    "Wind": "5.5",
+    "Weather": "rain"
+  },
+  {
+    "date": "2014-02-18",
+    "Precipitation": "15.2",
+    "Temp_max": "8.9",
+    "Temp_min": "5.0",
+    "Wind": "6.2",
+    "Weather": "rain"
+  },
+  {
+    "date": "2014-02-19",
+    "Precipitation": "1.0",
+    "Temp_max": "8.3",
+    "Temp_min": "3.9",
+    "Wind": "6.0",
+    "Weather": "rain"
+  },
+  {
+    "date": "2014-02-20",
+    "Precipitation": "3.0",
+    "Temp_max": "10.0",
+    "Temp_min": "5.6",
+    "Wind": "6.9",
+    "Weather": "rain"
+  },
+  {
+    "date": "2014-02-21",
+    "Precipitation": "2.8",
+    "Temp_max": "6.7",
+    "Temp_min": "3.9",
+    "Wind": "2.9",
+    "Weather": "rain"
+  },
+  {
+    "date": "2014-02-22",
+    "Precipitation": "2.5",
+    "Temp_max": "5.6",
+    "Temp_min": "2.8",
+    "Wind": "3.1",
+    "Weather": "rain"
+  },
+  {
+    "date": "2014-02-23",
+    "Precipitation": "6.1",
+    "Temp_max": "7.2",
+    "Temp_min": "3.9",
+    "Wind": "2.6",
+    "Weather": "rain"
+  },
+  {
+    "date": "2014-02-24",
+    "Precipitation": "13.0",
+    "Temp_max": "6.7",
+    "Temp_min": "3.3",
+    "Wind": "3.2",
+    "Weather": "rain"
+  },
+  {
+    "date": "2014-02-25",
+    "Precipitation": "0.3",
+    "Temp_max": "12.2",
+    "Temp_min": "3.9",
+    "Wind": "4.5",
+    "Weather": "rain"
+  },
+  {
+    "date": "2014-03-01",
+    "Precipitation": "0.5",
+    "Temp_max": "7.2",
+    "Temp_min": "4.4",
+    "Wind": "4.7",
+    "Weather": "rain"
+  },
+  {
+    "date": "2014-03-02",
+    "Precipitation": "19.1",
+    "Temp_max": "11.1",
+    "Temp_min": "2.8",
+    "Wind": "5.7",
+    "Weather": "rain"
+  },
+  {
+    "date": "2014-03-03",
+    "Precipitation": "10.7",
+    "Temp_max": "14.4",
+    "Temp_min": "8.9",
+    "Wind": "5.1",
+    "Weather": "rain"
+  },
+  {
+    "date": "2014-03-04",
+    "Precipitation": "16.5",
+    "Temp_max": "13.9",
+    "Temp_min": "7.8",
+    "Wind": "3.9",
+    "Weather": "rain"
+  },
+  {
+    "date": "2014-03-05",
+    "Precipitation": "46.7",
+    "Temp_max": "15.6",
+    "Temp_min": "10.6",
+    "Wind": "3.9",
+    "Weather": "rain"
+  },
+  {
+    "date": "2014-03-06",
+    "Precipitation": "3.0",
+    "Temp_max": "13.3",
+    "Temp_min": "10.0",
+    "Wind": "6.2",
+    "Weather": "rain"
+  },
+  {
+    "date": "2014-03-08",
+    "Precipitation": "32.3",
+    "Temp_max": "12.8",
+    "Temp_min": "6.7",
+    "Wind": "2.7",
+    "Weather": "rain"
+  },
+  {
+    "date": "2014-03-09",
+    "Precipitation": "4.3",
+    "Temp_max": "15.0",
+    "Temp_min": "9.4",
+    "Wind": "4.3",
+    "Weather": "rain"
+  },
+  {
+    "date": "2014-03-10",
+    "Precipitation": "18.8",
+    "Temp_max": "12.2",
+    "Temp_min": "6.1",
+    "Wind": "2.2",
+    "Weather": "rain"
+  },
+  {
+    "date": "2014-03-13",
+    "Precipitation": "0.5",
+    "Temp_max": "13.9",
+    "Temp_min": "5.0",
+    "Wind": "2.5",
+    "Weather": "rain"
+  },
+  {
+    "date": "2014-03-14",
+    "Precipitation": "6.9",
+    "Temp_max": "14.4",
+    "Temp_min": "8.3",
+    "Wind": "6.1",
+    "Weather": "rain"
+  },
+  {
+    "date": "2014-03-15",
+    "Precipitation": "8.1",
+    "Temp_max": "16.7",
+    "Temp_min": "4.4",
+    "Wind": "3.0",
+    "Weather": "rain"
+  },
+  {
+    "date": "2014-03-16",
+    "Precipitation": "27.7",
+    "Temp_max": "10.6",
+    "Temp_min": "4.4",
+    "Wind": "3.8",
+    "Weather": "rain"
+  },
+  {
+    "date": "2014-03-17",
+    "Precipitation": "0.3",
+    "Temp_max": "10.0",
+    "Temp_min": "2.8",
+    "Wind": "3.2",
+    "Weather": "rain"
+  },
+  {
+    "date": "2014-03-19",
+    "Precipitation": "0.5",
+    "Temp_max": "11.1",
+    "Temp_min": "3.3",
+    "Wind": "5.1",
+    "Weather": "rain"
+  },
+  {
+    "date": "2014-03-25",
+    "Precipitation": "4.1",
+    "Temp_max": "13.9",
+    "Temp_min": "6.7",
+    "Wind": "4.4",
+    "Weather": "rain"
+  },
+  {
+    "date": "2014-03-26",
+    "Precipitation": "3.6",
+    "Temp_max": "11.1",
+    "Temp_min": "5.6",
+    "Wind": "2.4",
+    "Weather": "rain"
+  },
+  {
+    "date": "2014-03-27",
+    "Precipitation": "0.3",
+    "Temp_max": "12.2",
+    "Temp_min": "6.7",
+    "Wind": "2.8",
+    "Weather": "rain"
+  },
+  {
+    "date": "2014-03-28",
+    "Precipitation": "22.1",
+    "Temp_max": "11.7",
+    "Temp_min": "7.2",
+    "Wind": "3.9",
+    "Weather": "rain"
+  },
+  {
+    "date": "2014-03-29",
+    "Precipitation": "14.0",
+    "Temp_max": "11.7",
+    "Temp_min": "7.2",
+    "Wind": "5.1",
+    "Weather": "rain"
+  },
+  {
+    "date": "2014-04-03",
+    "Precipitation": "2.5",
+    "Temp_max": "13.3",
+    "Temp_min": "6.1",
+    "Wind": "3.9",
+    "Weather": "rain"
+  },
+  {
+    "date": "2014-04-05",
+    "Precipitation": "4.6",
+    "Temp_max": "11.7",
+    "Temp_min": "7.8",
+    "Wind": "4.3",
+    "Weather": "rain"
+  },
+  {
+    "date": "2014-04-08",
+    "Precipitation": "4.6",
+    "Temp_max": "15.6",
+    "Temp_min": "8.3",
+    "Wind": "4.2",
+    "Weather": "rain"
+  },
+  {
+    "date": "2014-04-15",
+    "Precipitation": "0.5",
+    "Temp_max": "14.4",
+    "Temp_min": "7.8",
+    "Wind": "4.0",
+    "Weather": "rain"
+  },
+  {
+    "date": "2014-04-16",
+    "Precipitation": "10.9",
+    "Temp_max": "11.1",
+    "Temp_min": "8.9",
+    "Wind": "4.6",
+    "Weather": "rain"
+  },
+  {
+    "date": "2014-04-17",
+    "Precipitation": "18.5",
+    "Temp_max": "11.7",
+    "Temp_min": "7.2",
+    "Wind": "4.7",
+    "Weather": "rain"
+  },
+  {
+    "date": "2014-04-19",
+    "Precipitation": "13.7",
+    "Temp_max": "11.7",
+    "Temp_min": "5.6",
+    "Wind": "4.7",
+    "Weather": "rain"
+  },
+  {
+    "date": "2014-04-21",
+    "Precipitation": "5.1",
+    "Temp_max": "17.2",
+    "Temp_min": "7.8",
+    "Wind": "2.5",
+    "Weather": "rain"
+  },
+  {
+    "date": "2014-04-22",
+    "Precipitation": "14.2",
+    "Temp_max": "12.2",
+    "Temp_min": "5.0",
+    "Wind": "4.2",
+    "Weather": "rain"
+  },
+  {
+    "date": "2014-04-23",
+    "Precipitation": "8.9",
+    "Temp_max": "11.7",
+    "Temp_min": "6.1",
+    "Wind": "5.0",
+    "Weather": "rain"
+  },
+  {
+    "date": "2014-04-24",
+    "Precipitation": "12.4",
+    "Temp_max": "13.9",
+    "Temp_min": "6.1",
+    "Wind": "5.3",
+    "Weather": "rain"
+  },
+  {
+    "date": "2014-04-26",
+    "Precipitation": "3.3",
+    "Temp_max": "15.0",
+    "Temp_min": "5.6",
+    "Wind": "3.9",
+    "Weather": "rain"
+  },
+  {
+    "date": "2014-04-27",
+    "Precipitation": "6.9",
+    "Temp_max": "11.1",
+    "Temp_min": "6.1",
+    "Wind": "5.8",
+    "Weather": "rain"
+  },
+  {
+    "date": "2014-05-03",
+    "Precipitation": "33.3",
+    "Temp_max": "15.0",
+    "Temp_min": "8.9",
+    "Wind": "3.4",
+    "Weather": "rain"
+  },
+  {
+    "date": "2014-05-04",
+    "Precipitation": "16.0",
+    "Temp_max": "14.4",
+    "Temp_min": "8.9",
+    "Wind": "4.2",
+    "Weather": "rain"
+  },
+  {
+    "date": "2014-05-05",
+    "Precipitation": "5.1",
+    "Temp_max": "15.6",
+    "Temp_min": "9.4",
+    "Wind": "3.8",
+    "Weather": "rain"
+  },
+  {
+    "date": "2014-05-08",
+    "Precipitation": "13.7",
+    "Temp_max": "13.9",
+    "Temp_min": "9.4",
+    "Wind": "3.4",
+    "Weather": "rain"
+  },
+  {
+    "date": "2014-05-09",
+    "Precipitation": "2.0",
+    "Temp_max": "13.3",
+    "Temp_min": "7.2",
+    "Wind": "5.6",
+    "Weather": "rain"
+  },
+  {
+    "date": "2014-05-10",
+    "Precipitation": "0.5",
+    "Temp_max": "15.6",
+    "Temp_min": "7.2",
+    "Wind": "2.1",
+    "Weather": "rain"
+  },
+  {
+    "date": "2014-05-23",
+    "Precipitation": "3.8",
+    "Temp_max": "20.0",
+    "Temp_min": "12.8",
+    "Wind": "4.0",
+    "Weather": "rain"
+  },
+  {
+    "date": "2014-05-25",
+    "Precipitation": "5.6",
+    "Temp_max": "15.0",
+    "Temp_min": "10.6",
+    "Wind": "1.4",
+    "Weather": "rain"
+  },
+  {
+    "date": "2014-06-12",
+    "Precipitation": "1.8",
+    "Temp_max": "21.7",
+    "Temp_min": "12.2",
+    "Wind": "4.0",
+    "Weather": "rain"
+  },
+  {
+    "date": "2014-06-13",
+    "Precipitation": "6.4",
+    "Temp_max": "15.6",
+    "Temp_min": "11.1",
+    "Wind": "5.0",
+    "Weather": "rain"
+  },
+  {
+    "date": "2014-06-15",
+    "Precipitation": "0.5",
+    "Temp_max": "18.3",
+    "Temp_min": "10.0",
+    "Wind": "3.6",
+    "Weather": "rain"
+  },
+  {
+    "date": "2014-06-16",
+    "Precipitation": "3.6",
+    "Temp_max": "17.8",
+    "Temp_min": "8.9",
+    "Wind": "2.4",
+    "Weather": "rain"
+  },
+  {
+    "date": "2014-06-17",
+    "Precipitation": "1.3",
+    "Temp_max": "17.8",
+    "Temp_min": "10.0",
+    "Wind": "3.0",
+    "Weather": "rain"
+  },
+  {
+    "date": "2014-06-19",
+    "Precipitation": "0.8",
+    "Temp_max": "25.6",
+    "Temp_min": "11.7",
+    "Wind": "3.7",
+    "Weather": "rain"
+  },
+  {
+    "date": "2014-06-20",
+    "Precipitation": "0.3",
+    "Temp_max": "20.0",
+    "Temp_min": "10.0",
+    "Wind": "3.4",
+    "Weather": "rain"
+  },
+  {
+    "date": "2014-06-27",
+    "Precipitation": "1.8",
+    "Temp_max": "21.1",
+    "Temp_min": "13.9",
+    "Wind": "4.5",
+    "Weather": "rain"
+  },
+  {
+    "date": "2014-06-28",
+    "Precipitation": "2.3",
+    "Temp_max": "20.0",
+    "Temp_min": "13.3",
+    "Wind": "4.3",
+    "Weather": "rain"
+  },
+  {
+    "date": "2014-07-22",
+    "Precipitation": "0.3",
+    "Temp_max": "21.1",
+    "Temp_min": "13.3",
+    "Wind": "1.1",
+    "Weather": "rain"
+  },
+  {
+    "date": "2014-07-23",
+    "Precipitation": "19.3",
+    "Temp_max": "18.9",
+    "Temp_min": "13.3",
+    "Wind": "3.3",
+    "Weather": "rain"
+  },
+  {
+    "date": "2014-08-02",
+    "Precipitation": "0.5",
+    "Temp_max": "29.4",
+    "Temp_min": "15.6",
+    "Wind": "1.7",
+    "Weather": "rain"
+  },
+  {
+    "date": "2014-08-11",
+    "Precipitation": "0.5",
+    "Temp_max": "35.6",
+    "Temp_min": "17.8",
+    "Wind": "2.6",
+    "Weather": "rain"
+  },
+  {
+    "date": "2014-08-12",
+    "Precipitation": "12.7",
+    "Temp_max": "27.2",
+    "Temp_min": "17.2",
+    "Wind": "3.1",
+    "Weather": "rain"
+  },
+  {
+    "date": "2014-08-13",
+    "Precipitation": "21.6",
+    "Temp_max": "23.3",
+    "Temp_min": "15.0",
+    "Wind": "2.7",
+    "Weather": "rain"
+  },
+  {
+    "date": "2014-08-15",
+    "Precipitation": "1.0",
+    "Temp_max": "24.4",
+    "Temp_min": "16.7",
+    "Wind": "1.5",
+    "Weather": "rain"
+  },
+  {
+    "date": "2014-08-30",
+    "Precipitation": "8.4",
+    "Temp_max": "17.8",
+    "Temp_min": "15.0",
+    "Wind": "2.2",
+    "Weather": "rain"
+  },
+  {
+    "date": "2014-08-31",
+    "Precipitation": "1.3",
+    "Temp_max": "21.1",
+    "Temp_min": "13.9",
+    "Wind": "1.9",
+    "Weather": "rain"
+  },
+  {
+    "date": "2014-09-02",
+    "Precipitation": "3.0",
+    "Temp_max": "20.0",
+    "Temp_min": "13.9",
+    "Wind": "4.3",
+    "Weather": "rain"
+  },
+  {
+    "date": "2014-09-17",
+    "Precipitation": "0.5",
+    "Temp_max": "22.8",
+    "Temp_min": "14.4",
+    "Wind": "2.3",
+    "Weather": "rain"
+  },
+  {
+    "date": "2014-09-18",
+    "Precipitation": "0.3",
+    "Temp_max": "19.4",
+    "Temp_min": "15.0",
+    "Wind": "3.1",
+    "Weather": "rain"
+  },
+  {
+    "date": "2014-09-22",
+    "Precipitation": "0.3",
+    "Temp_max": "22.2",
+    "Temp_min": "15.0",
+    "Wind": "2.1",
+    "Weather": "rain"
+  },
+  {
+    "date": "2014-09-23",
+    "Precipitation": "18.3",
+    "Temp_max": "18.9",
+    "Temp_min": "14.4",
+    "Wind": "2.5",
+    "Weather": "rain"
+  },
+  {
+    "date": "2014-09-24",
+    "Precipitation": "20.3",
+    "Temp_max": "18.9",
+    "Temp_min": "14.4",
+    "Wind": "2.7",
+    "Weather": "rain"
+  },
+  {
+    "date": "2014-09-25",
+    "Precipitation": "4.3",
+    "Temp_max": "21.7",
+    "Temp_min": "14.4",
+    "Wind": "2.5",
+    "Weather": "rain"
+  },
+  {
+    "date": "2014-09-26",
+    "Precipitation": "8.9",
+    "Temp_max": "20.0",
+    "Temp_min": "13.9",
+    "Wind": "3.3",
+    "Weather": "rain"
+  },
+  {
+    "date": "2014-09-29",
+    "Precipitation": "0.8",
+    "Temp_max": "16.7",
+    "Temp_min": "11.1",
+    "Wind": "3.5",
+    "Weather": "rain"
+  },
+  {
+    "date": "2014-10-10",
+    "Precipitation": "0.3",
+    "Temp_max": "18.3",
+    "Temp_min": "10.0",
+    "Wind": "3.8",
+    "Weather": "rain"
+  },
+  {
+    "date": "2014-10-11",
+    "Precipitation": "7.4",
+    "Temp_max": "18.3",
+    "Temp_min": "11.7",
+    "Wind": "3.5",
+    "Weather": "rain"
+  },
+  {
+    "date": "2014-10-13",
+    "Precipitation": "7.6",
+    "Temp_max": "21.1",
+    "Temp_min": "10.0",
+    "Wind": "3.1",
+    "Weather": "rain"
+  },
+  {
+    "date": "2014-10-14",
+    "Precipitation": "7.1",
+    "Temp_max": "16.7",
+    "Temp_min": "11.7",
+    "Wind": "2.2",
+    "Weather": "rain"
+  },
+  {
+    "date": "2014-10-15",
+    "Precipitation": "8.6",
+    "Temp_max": "16.1",
+    "Temp_min": "11.7",
+    "Wind": "4.7",
+    "Weather": "rain"
+  },
+  {
+    "date": "2014-10-17",
+    "Precipitation": "3.3",
+    "Temp_max": "16.7",
+    "Temp_min": "11.7",
+    "Wind": "3.0",
+    "Weather": "rain"
+  },
+  {
+    "date": "2014-10-18",
+    "Precipitation": "15.0",
+    "Temp_max": "19.4",
+    "Temp_min": "13.9",
+    "Wind": "1.9",
+    "Weather": "rain"
+  },
+  {
+    "date": "2014-10-20",
+    "Precipitation": "11.7",
+    "Temp_max": "16.1",
+    "Temp_min": "12.2",
+    "Wind": "3.1",
+    "Weather": "rain"
+  },
+  {
+    "date": "2014-10-21",
+    "Precipitation": "1.0",
+    "Temp_max": "16.1",
+    "Temp_min": "11.7",
+    "Wind": "4.7",
+    "Weather": "rain"
+  },
+  {
+    "date": "2014-10-22",
+    "Precipitation": "32.0",
+    "Temp_max": "15.6",
+    "Temp_min": "11.7",
+    "Wind": "5.0",
+    "Weather": "rain"
+  },
+  {
+    "date": "2014-10-23",
+    "Precipitation": "9.4",
+    "Temp_max": "14.4",
+    "Temp_min": "8.3",
+    "Wind": "4.6",
+    "Weather": "rain"
+  },
+  {
+    "date": "2014-10-24",
+    "Precipitation": "4.1",
+    "Temp_max": "14.4",
+    "Temp_min": "8.9",
+    "Wind": "3.2",
+    "Weather": "rain"
+  },
+  {
+    "date": "2014-10-25",
+    "Precipitation": "6.1",
+    "Temp_max": "16.7",
+    "Temp_min": "8.3",
+    "Wind": "5.4",
+    "Weather": "rain"
+  },
+  {
+    "date": "2014-10-26",
+    "Precipitation": "1.5",
+    "Temp_max": "12.8",
+    "Temp_min": "7.8",
+    "Wind": "5.0",
+    "Weather": "rain"
+  },
+  {
+    "date": "2014-10-27",
+    "Precipitation": "0.8",
+    "Temp_max": "15.6",
+    "Temp_min": "6.7",
+    "Wind": "2.4",
+    "Weather": "rain"
+  },
+  {
+    "date": "2014-10-28",
+    "Precipitation": "12.7",
+    "Temp_max": "15.0",
+    "Temp_min": "9.4",
+    "Wind": "3.9",
+    "Weather": "rain"
+  },
+  {
+    "date": "2014-10-29",
+    "Precipitation": "0.5",
+    "Temp_max": "16.7",
+    "Temp_min": "11.7",
+    "Wind": "3.1",
+    "Weather": "rain"
+  },
+  {
+    "date": "2014-10-30",
+    "Precipitation": "25.4",
+    "Temp_max": "15.6",
+    "Temp_min": "11.1",
+    "Wind": "3.2",
+    "Weather": "rain"
+  },
+  {
+    "date": "2014-10-31",
+    "Precipitation": "17.0",
+    "Temp_max": "12.8",
+    "Temp_min": "8.3",
+    "Wind": "2.0",
+    "Weather": "rain"
+  },
+  {
+    "date": "2014-11-02",
+    "Precipitation": "1.8",
+    "Temp_max": "13.3",
+    "Temp_min": "7.2",
+    "Wind": "2.9",
+    "Weather": "rain"
+  },
+  {
+    "date": "2014-11-03",
+    "Precipitation": "10.9",
+    "Temp_max": "13.9",
+    "Temp_min": "11.1",
+    "Wind": "4.8",
+    "Weather": "rain"
+  },
+  {
+    "date": "2014-11-04",
+    "Precipitation": "4.1",
+    "Temp_max": "14.4",
+    "Temp_min": "10.6",
+    "Wind": "3.3",
+    "Weather": "rain"
+  },
+  {
+    "date": "2014-11-05",
+    "Precipitation": "4.8",
+    "Temp_max": "15.0",
+    "Temp_min": "10.6",
+    "Wind": "2.1",
+    "Weather": "rain"
+  },
+  {
+    "date": "2014-11-06",
+    "Precipitation": "4.1",
+    "Temp_max": "16.7",
+    "Temp_min": "10.6",
+    "Wind": "6.7",
+    "Weather": "rain"
+  },
+  {
+    "date": "2014-11-09",
+    "Precipitation": "5.1",
+    "Temp_max": "13.3",
+    "Temp_min": "7.8",
+    "Wind": "3.0",
+    "Weather": "rain"
+  },
+  {
+    "date": "2014-11-20",
+    "Precipitation": "3.6",
+    "Temp_max": "11.1",
+    "Temp_min": "5.6",
+    "Wind": "2.1",
+    "Weather": "rain"
+  },
+  {
+    "date": "2014-11-21",
+    "Precipitation": "15.2",
+    "Temp_max": "11.1",
+    "Temp_min": "8.3",
+    "Wind": "4.7",
+    "Weather": "rain"
+  },
+  {
+    "date": "2014-11-22",
+    "Precipitation": "0.5",
+    "Temp_max": "9.4",
+    "Temp_min": "6.7",
+    "Wind": "4.7",
+    "Weather": "rain"
+  },
+  {
+    "date": "2014-11-23",
+    "Precipitation": "11.9",
+    "Temp_max": "12.8",
+    "Temp_min": "5.6",
+    "Wind": "5.1",
+    "Weather": "rain"
+  },
+  {
+    "date": "2014-11-24",
+    "Precipitation": "1.3",
+    "Temp_max": "11.7",
+    "Temp_min": "4.4",
+    "Wind": "3.8",
+    "Weather": "rain"
+  },
+  {
+    "date": "2014-11-25",
+    "Precipitation": "18.3",
+    "Temp_max": "13.9",
+    "Temp_min": "9.4",
+    "Wind": "4.5",
+    "Weather": "rain"
+  },
+  {
+    "date": "2014-11-26",
+    "Precipitation": "0.3",
+    "Temp_max": "15.0",
+    "Temp_min": "12.2",
+    "Wind": "3.9",
+    "Weather": "rain"
+  },
+  {
+    "date": "2014-11-27",
+    "Precipitation": "3.3",
+    "Temp_max": "14.4",
+    "Temp_min": "11.7",
+    "Wind": "6.6",
+    "Weather": "rain"
+  },
+  {
+    "date": "2014-11-28",
+    "Precipitation": "34.3",
+    "Temp_max": "12.8",
+    "Temp_min": "3.3",
+    "Wind": "5.8",
+    "Weather": "rain"
+  },
+  {
+    "date": "2014-12-04",
+    "Precipitation": "0.8",
+    "Temp_max": "8.3",
+    "Temp_min": "3.9",
+    "Wind": "1.1",
+    "Weather": "rain"
+  },
+  {
+    "date": "2014-12-05",
+    "Precipitation": "3.0",
+    "Temp_max": "12.8",
+    "Temp_min": "6.7",
+    "Wind": "3.1",
+    "Weather": "rain"
+  },
+  {
+    "date": "2014-12-06",
+    "Precipitation": "7.4",
+    "Temp_max": "11.7",
+    "Temp_min": "7.8",
+    "Wind": "3.6",
+    "Weather": "rain"
+  },
+  {
+    "date": "2014-12-08",
+    "Precipitation": "9.1",
+    "Temp_max": "14.4",
+    "Temp_min": "8.9",
+    "Wind": "4.2",
+    "Weather": "rain"
+  },
+  {
+    "date": "2014-12-09",
+    "Precipitation": "9.9",
+    "Temp_max": "16.1",
+    "Temp_min": "10.6",
+    "Wind": "5.1",
+    "Weather": "rain"
+  },
+  {
+    "date": "2014-12-10",
+    "Precipitation": "13.0",
+    "Temp_max": "18.9",
+    "Temp_min": "10.0",
+    "Wind": "6.7",
+    "Weather": "rain"
+  },
+  {
+    "date": "2014-12-11",
+    "Precipitation": "6.9",
+    "Temp_max": "14.4",
+    "Temp_min": "8.3",
+    "Wind": "6.4",
+    "Weather": "rain"
+  },
+  {
+    "date": "2014-12-17",
+    "Precipitation": "2.8",
+    "Temp_max": "8.9",
+    "Temp_min": "6.1",
+    "Wind": "1.6",
+    "Weather": "rain"
+  },
+  {
+    "date": "2014-12-18",
+    "Precipitation": "13.0",
+    "Temp_max": "9.4",
+    "Temp_min": "6.7",
+    "Wind": "3.1",
+    "Weather": "rain"
+  },
+  {
+    "date": "2014-12-19",
+    "Precipitation": "3.0",
+    "Temp_max": "11.1",
+    "Temp_min": "7.2",
+    "Wind": "4.3",
+    "Weather": "rain"
+  },
+  {
+    "date": "2014-12-20",
+    "Precipitation": "19.6",
+    "Temp_max": "12.8",
+    "Temp_min": "6.7",
+    "Wind": "5.5",
+    "Weather": "rain"
+  },
+  {
+    "date": "2014-12-23",
+    "Precipitation": "20.6",
+    "Temp_max": "12.2",
+    "Temp_min": "5.0",
+    "Wind": "3.8",
+    "Weather": "rain"
+  },
+  {
+    "date": "2014-12-24",
+    "Precipitation": "5.3",
+    "Temp_max": "7.2",
+    "Temp_min": "3.9",
+    "Wind": "1.8",
+    "Weather": "rain"
+  },
+  {
+    "date": "2014-12-27",
+    "Precipitation": "3.3",
+    "Temp_max": "9.4",
+    "Temp_min": "4.4",
+    "Wind": "4.9",
+    "Weather": "rain"
+  },
+  {
+    "date": "2014-12-28",
+    "Precipitation": "4.1",
+    "Temp_max": "6.7",
+    "Temp_min": "2.8",
+    "Wind": "1.8",
+    "Weather": "rain"
+  },
+  {
+    "date": "2015-01-02",
+    "Precipitation": "1.5",
+    "Temp_max": "5.6",
+    "Temp_min": "0.0",
+    "Wind": "2.3",
+    "Weather": "rain"
+  },
+  {
+    "date": "2015-01-04",
+    "Precipitation": "10.2",
+    "Temp_max": "10.6",
+    "Temp_min": "3.3",
+    "Wind": "4.5",
+    "Weather": "rain"
+  },
+  {
+    "date": "2015-01-05",
+    "Precipitation": "8.1",
+    "Temp_max": "12.2",
+    "Temp_min": "9.4",
+    "Wind": "6.4",
+    "Weather": "rain"
+  },
+  {
+    "date": "2015-01-09",
+    "Precipitation": "0.3",
+    "Temp_max": "10.0",
+    "Temp_min": "3.3",
+    "Wind": "0.6",
+    "Weather": "rain"
+  },
+  {
+    "date": "2015-01-10",
+    "Precipitation": "5.8",
+    "Temp_max": "7.8",
+    "Temp_min": "6.1",
+    "Wind": "0.5",
+    "Weather": "rain"
+  },
+  {
+    "date": "2015-01-11",
+    "Precipitation": "1.5",
+    "Temp_max": "9.4",
+    "Temp_min": "7.2",
+    "Wind": "1.1",
+    "Weather": "rain"
+  },
+  {
+    "date": "2015-01-15",
+    "Precipitation": "9.7",
+    "Temp_max": "7.8",
+    "Temp_min": "1.1",
+    "Wind": "3.2",
+    "Weather": "rain"
+  },
+  {
+    "date": "2015-01-17",
+    "Precipitation": "26.2",
+    "Temp_max": "13.3",
+    "Temp_min": "3.3",
+    "Wind": "2.8",
+    "Weather": "rain"
+  },
+  {
+    "date": "2015-01-18",
+    "Precipitation": "21.3",
+    "Temp_max": "13.9",
+    "Temp_min": "7.2",
+    "Wind": "6.6",
+    "Weather": "rain"
+  },
+  {
+    "date": "2015-01-19",
+    "Precipitation": "0.5",
+    "Temp_max": "10.0",
+    "Temp_min": "6.1",
+    "Wind": "2.8",
+    "Weather": "rain"
+  },
+  {
+    "date": "2015-01-22",
+    "Precipitation": "0.8",
+    "Temp_max": "9.4",
+    "Temp_min": "6.1",
+    "Wind": "1.3",
+    "Weather": "rain"
+  },
+  {
+    "date": "2015-01-23",
+    "Precipitation": "5.8",
+    "Temp_max": "12.2",
+    "Temp_min": "8.3",
+    "Wind": "2.6",
+    "Weather": "rain"
+  },
+  {
+    "date": "2015-01-24",
+    "Precipitation": "0.5",
+    "Temp_max": "14.4",
+    "Temp_min": "11.1",
+    "Wind": "3.3",
+    "Weather": "rain"
+  },
+  {
+    "date": "2015-01-27",
+    "Precipitation": "0.8",
+    "Temp_max": "11.1",
+    "Temp_min": "8.3",
+    "Wind": "2.0",
+    "Weather": "rain"
+  },
+  {
+    "date": "2015-02-01",
+    "Precipitation": "1.5",
+    "Temp_max": "9.4",
+    "Temp_min": "4.4",
+    "Wind": "2.6",
+    "Weather": "rain"
+  },
+  {
+    "date": "2015-02-02",
+    "Precipitation": "7.4",
+    "Temp_max": "11.1",
+    "Temp_min": "5.0",
+    "Wind": "4.0",
+    "Weather": "rain"
+  },
+  {
+    "date": "2015-02-03",
+    "Precipitation": "1.3",
+    "Temp_max": "10.0",
+    "Temp_min": "5.6",
+    "Wind": "1.9",
+    "Weather": "rain"
+  },
+  {
+    "date": "2015-02-04",
+    "Precipitation": "8.4",
+    "Temp_max": "10.6",
+    "Temp_min": "4.4",
+    "Wind": "1.7",
+    "Weather": "rain"
+  },
+  {
+    "date": "2015-02-05",
+    "Precipitation": "26.2",
+    "Temp_max": "13.3",
+    "Temp_min": "8.3",
+    "Wind": "4.6",
+    "Weather": "rain"
+  },
+  {
+    "date": "2015-02-06",
+    "Precipitation": "17.3",
+    "Temp_max": "14.4",
+    "Temp_min": "10.0",
+    "Wind": "4.5",
+    "Weather": "rain"
+  },
+  {
+    "date": "2015-02-07",
+    "Precipitation": "23.6",
+    "Temp_max": "12.2",
+    "Temp_min": "9.4",
+    "Wind": "4.6",
+    "Weather": "rain"
+  },
+  {
+    "date": "2015-02-08",
+    "Precipitation": "3.6",
+    "Temp_max": "15.0",
+    "Temp_min": "8.3",
+    "Wind": "3.9",
+    "Weather": "rain"
+  },
+  {
+    "date": "2015-02-09",
+    "Precipitation": "6.1",
+    "Temp_max": "13.3",
+    "Temp_min": "8.3",
+    "Wind": "2.5",
+    "Weather": "rain"
+  },
+  {
+    "date": "2015-02-10",
+    "Precipitation": "0.3",
+    "Temp_max": "12.8",
+    "Temp_min": "8.3",
+    "Wind": "4.0",
+    "Weather": "rain"
+  },
+  {
+    "date": "2015-02-12",
+    "Precipitation": "1.0",
+    "Temp_max": "16.7",
+    "Temp_min": "9.4",
+    "Wind": "2.1",
+    "Weather": "rain"
+  },
+  {
+    "date": "2015-02-14",
+    "Precipitation": "0.3",
+    "Temp_max": "14.4",
+    "Temp_min": "6.7",
+    "Wind": "2.9",
+    "Weather": "rain"
+  },
+  {
+    "date": "2015-02-19",
+    "Precipitation": "4.6",
+    "Temp_max": "10.6",
+    "Temp_min": "8.3",
+    "Wind": "2.2",
+    "Weather": "rain"
+  },
+  {
+    "date": "2015-02-20",
+    "Precipitation": "0.8",
+    "Temp_max": "11.1",
+    "Temp_min": "7.2",
+    "Wind": "0.9",
+    "Weather": "rain"
+  },
+  {
+    "date": "2015-02-25",
+    "Precipitation": "4.1",
+    "Temp_max": "10.0",
+    "Temp_min": "6.7",
+    "Wind": "1.0",
+    "Weather": "rain"
+  },
+  {
+    "date": "2015-02-26",
+    "Precipitation": "9.4",
+    "Temp_max": "11.7",
+    "Temp_min": "7.8",
+    "Wind": "1.4",
+    "Weather": "rain"
+  },
+  {
+    "date": "2015-02-27",
+    "Precipitation": "18.3",
+    "Temp_max": "10.0",
+    "Temp_min": "6.7",
+    "Wind": "4.0",
+    "Weather": "rain"
+  },
+  {
+    "date": "2015-03-10",
+    "Precipitation": "0.8",
+    "Temp_max": "13.3",
+    "Temp_min": "5.0",
+    "Wind": "2.6",
+    "Weather": "rain"
+  },
+  {
+    "date": "2015-03-11",
+    "Precipitation": "2.5",
+    "Temp_max": "14.4",
+    "Temp_min": "8.9",
+    "Wind": "3.1",
+    "Weather": "rain"
+  },
+  {
+    "date": "2015-03-13",
+    "Precipitation": "2.0",
+    "Temp_max": "17.2",
+    "Temp_min": "7.8",
+    "Wind": "2.2",
+    "Weather": "rain"
+  },
+  {
+    "date": "2015-03-14",
+    "Precipitation": "17.0",
+    "Temp_max": "13.9",
+    "Temp_min": "9.4",
+    "Wind": "3.8",
+    "Weather": "rain"
+  },
+  {
+    "date": "2015-03-15",
+    "Precipitation": "55.9",
+    "Temp_max": "10.6",
+    "Temp_min": "6.1",
+    "Wind": "4.2",
+    "Weather": "rain"
+  },
+  {
+    "date": "2015-03-16",
+    "Precipitation": "1.0",
+    "Temp_max": "13.9",
+    "Temp_min": "6.1",
+    "Wind": "3.0",
+    "Weather": "rain"
+  },
+  {
+    "date": "2015-03-17",
+    "Precipitation": "0.8",
+    "Temp_max": "13.3",
+    "Temp_min": "4.4",
+    "Wind": "2.6",
+    "Weather": "rain"
+  },
+  {
+    "date": "2015-03-20",
+    "Precipitation": "4.1",
+    "Temp_max": "13.9",
+    "Temp_min": "8.9",
+    "Wind": "1.9",
+    "Weather": "rain"
+  },
+  {
+    "date": "2015-03-21",
+    "Precipitation": "3.8",
+    "Temp_max": "13.3",
+    "Temp_min": "8.3",
+    "Wind": "4.7",
+    "Weather": "rain"
+  },
+  {
+    "date": "2015-03-22",
+    "Precipitation": "1.0",
+    "Temp_max": "11.7",
+    "Temp_min": "6.1",
+    "Wind": "2.3",
+    "Weather": "rain"
+  },
+  {
+    "date": "2015-03-23",
+    "Precipitation": "8.1",
+    "Temp_max": "11.1",
+    "Temp_min": "5.6",
+    "Wind": "2.8",
+    "Weather": "rain"
+  },
+  {
+    "date": "2015-03-24",
+    "Precipitation": "7.6",
+    "Temp_max": "12.8",
+    "Temp_min": "6.1",
+    "Wind": "3.9",
+    "Weather": "rain"
+  },
+  {
+    "date": "2015-03-25",
+    "Precipitation": "5.1",
+    "Temp_max": "14.4",
+    "Temp_min": "7.2",
+    "Wind": "4.4",
+    "Weather": "rain"
+  },
+  {
+    "date": "2015-03-27",
+    "Precipitation": "1.0",
+    "Temp_max": "18.3",
+    "Temp_min": "8.9",
+    "Wind": "4.0",
+    "Weather": "rain"
+  },
+  {
+    "date": "2015-03-30",
+    "Precipitation": "1.8",
+    "Temp_max": "17.8",
+    "Temp_min": "10.6",
+    "Wind": "2.9",
+    "Weather": "rain"
+  },
+  {
+    "date": "2015-03-31",
+    "Precipitation": "1.0",
+    "Temp_max": "12.8",
+    "Temp_min": "6.1",
+    "Wind": "4.2",
+    "Weather": "rain"
+  },
+  {
+    "date": "2015-04-01",
+    "Precipitation": "5.1",
+    "Temp_max": "12.8",
+    "Temp_min": "5.6",
+    "Wind": "3.2",
+    "Weather": "rain"
+  },
+  {
+    "date": "2015-04-03",
+    "Precipitation": "1.5",
+    "Temp_max": "11.1",
+    "Temp_min": "5.0",
+    "Wind": "3.6",
+    "Weather": "rain"
+  },
+  {
+    "date": "2015-04-06",
+    "Precipitation": "1.0",
+    "Temp_max": "13.9",
+    "Temp_min": "6.7",
+    "Wind": "3.5",
+    "Weather": "rain"
+  },
+  {
+    "date": "2015-04-07",
+    "Precipitation": "0.5",
+    "Temp_max": "14.4",
+    "Temp_min": "6.7",
+    "Wind": "3.9",
+    "Weather": "rain"
+  },
+  {
+    "date": "2015-04-10",
+    "Precipitation": "10.9",
+    "Temp_max": "13.9",
+    "Temp_min": "7.8",
+    "Wind": "4.6",
+    "Weather": "rain"
+  },
+  {
+    "date": "2015-04-13",
+    "Precipitation": "14.0",
+    "Temp_max": "11.7",
+    "Temp_min": "3.9",
+    "Wind": "3.6",
+    "Weather": "rain"
+  },
+  {
+    "date": "2015-04-14",
+    "Precipitation": "3.3",
+    "Temp_max": "11.7",
+    "Temp_min": "2.8",
+    "Wind": "3.3",
+    "Weather": "rain"
+  },
+  {
+    "date": "2015-04-21",
+    "Precipitation": "5.6",
+    "Temp_max": "17.2",
+    "Temp_min": "6.7",
+    "Wind": "3.4",
+    "Weather": "rain"
+  },
+  {
+    "date": "2015-04-23",
+    "Precipitation": "3.0",
+    "Temp_max": "12.2",
+    "Temp_min": "6.7",
+    "Wind": "4.1",
+    "Weather": "rain"
+  },
+  {
+    "date": "2015-04-24",
+    "Precipitation": "3.3",
+    "Temp_max": "12.2",
+    "Temp_min": "6.1",
+    "Wind": "5.0",
+    "Weather": "rain"
+  },
+  {
+    "date": "2015-04-25",
+    "Precipitation": "1.3",
+    "Temp_max": "13.3",
+    "Temp_min": "5.6",
+    "Wind": "3.0",
+    "Weather": "rain"
+  },
+  {
+    "date": "2015-04-27",
+    "Precipitation": "0.3",
+    "Temp_max": "25.0",
+    "Temp_min": "10.6",
+    "Wind": "2.3",
+    "Weather": "rain"
+  },
+  {
+    "date": "2015-04-28",
+    "Precipitation": "1.8",
+    "Temp_max": "15.6",
+    "Temp_min": "8.9",
+    "Wind": "4.3",
+    "Weather": "rain"
+  },
+  {
+    "date": "2015-05-05",
+    "Precipitation": "6.1",
+    "Temp_max": "14.4",
+    "Temp_min": "7.2",
+    "Wind": "5.1",
+    "Weather": "rain"
+  },
+  {
+    "date": "2015-05-12",
+    "Precipitation": "4.3",
+    "Temp_max": "15.6",
+    "Temp_min": "10.6",
+    "Wind": "3.3",
+    "Weather": "rain"
+  },
+  {
+    "date": "2015-05-13",
+    "Precipitation": "4.1",
+    "Temp_max": "12.2",
+    "Temp_min": "10.0",
+    "Wind": "2.8",
+    "Weather": "rain"
+  },
+  {
+    "date": "2015-05-14",
+    "Precipitation": "0.3",
+    "Temp_max": "17.8",
+    "Temp_min": "9.4",
+    "Wind": "2.0",
+    "Weather": "rain"
+  },
+  {
+    "date": "2015-06-01",
+    "Precipitation": "4.6",
+    "Temp_max": "16.1",
+    "Temp_min": "11.7",
+    "Wind": "3.4",
+    "Weather": "rain"
+  },
+  {
+    "date": "2015-06-02",
+    "Precipitation": "0.5",
+    "Temp_max": "17.8",
+    "Temp_min": "12.8",
+    "Wind": "5.0",
+    "Weather": "rain"
+  },
+  {
+    "date": "2015-06-19",
+    "Precipitation": "0.5",
+    "Temp_max": "23.9",
+    "Temp_min": "13.3",
+    "Wind": "3.2",
+    "Weather": "rain"
+  },
+  {
+    "date": "2015-06-28",
+    "Precipitation": "0.3",
+    "Temp_max": "28.3",
+    "Temp_min": "18.3",
+    "Wind": "2.1",
+    "Weather": "rain"
+  },
+  {
+    "date": "2015-07-24",
+    "Precipitation": "0.3",
+    "Temp_max": "22.8",
+    "Temp_min": "13.3",
+    "Wind": "3.8",
+    "Weather": "rain"
+  },
+  {
+    "date": "2015-07-26",
+    "Precipitation": "2.0",
+    "Temp_max": "22.2",
+    "Temp_min": "13.9",
+    "Wind": "2.6",
+    "Weather": "rain"
+  },
+  {
+    "date": "2015-08-12",
+    "Precipitation": "7.6",
+    "Temp_max": "28.3",
+    "Temp_min": "16.7",
+    "Wind": "2.7",
+    "Weather": "rain"
+  },
+  {
+    "date": "2015-08-14",
+    "Precipitation": "30.5",
+    "Temp_max": "18.3",
+    "Temp_min": "15.0",
+    "Wind": "5.2",
+    "Weather": "rain"
+  },
+  {
+    "date": "2015-08-20",
+    "Precipitation": "2.0",
+    "Temp_max": "22.8",
+    "Temp_min": "14.4",
+    "Wind": "4.2",
+    "Weather": "rain"
+  },
+  {
+    "date": "2015-08-28",
+    "Precipitation": "0.5",
+    "Temp_max": "23.3",
+    "Temp_min": "15.6",
+    "Wind": "2.6",
+    "Weather": "rain"
+  },
+  {
+    "date": "2015-08-29",
+    "Precipitation": "32.5",
+    "Temp_max": "22.2",
+    "Temp_min": "13.3",
+    "Wind": "5.8",
+    "Weather": "rain"
+  },
+  {
+    "date": "2015-08-30",
+    "Precipitation": "10.2",
+    "Temp_max": "20.0",
+    "Temp_min": "12.8",
+    "Wind": "4.7",
+    "Weather": "rain"
+  },
+  {
+    "date": "2015-09-01",
+    "Precipitation": "5.8",
+    "Temp_max": "19.4",
+    "Temp_min": "13.9",
+    "Wind": "5.0",
+    "Weather": "rain"
+  },
+  {
+    "date": "2015-09-05",
+    "Precipitation": "0.3",
+    "Temp_max": "20.6",
+    "Temp_min": "8.9",
+    "Wind": "3.5",
+    "Weather": "rain"
+  },
+  {
+    "date": "2015-09-06",
+    "Precipitation": "5.3",
+    "Temp_max": "16.1",
+    "Temp_min": "11.7",
+    "Wind": "2.4",
+    "Weather": "rain"
+  },
+  {
+    "date": "2015-09-07",
+    "Precipitation": "0.3",
+    "Temp_max": "21.1",
+    "Temp_min": "13.3",
+    "Wind": "1.5",
+    "Weather": "rain"
+  },
+  {
+    "date": "2015-09-13",
+    "Precipitation": "0.5",
+    "Temp_max": "20.6",
+    "Temp_min": "12.8",
+    "Wind": "3.0",
+    "Weather": "rain"
+  },
+  {
+    "date": "2015-09-16",
+    "Precipitation": "1.0",
+    "Temp_max": "20.0",
+    "Temp_min": "10.0",
+    "Wind": "1.9",
+    "Weather": "rain"
+  },
+  {
+    "date": "2015-09-17",
+    "Precipitation": "1.8",
+    "Temp_max": "18.3",
+    "Temp_min": "12.8",
+    "Wind": "3.8",
+    "Weather": "rain"
+  },
+  {
+    "date": "2015-09-20",
+    "Precipitation": "4.1",
+    "Temp_max": "22.8",
+    "Temp_min": "12.2",
+    "Wind": "6.8",
+    "Weather": "rain"
+  },
+  {
+    "date": "2015-09-25",
+    "Precipitation": "2.0",
+    "Temp_max": "15.6",
+    "Temp_min": "12.8",
+    "Wind": "2.6",
+    "Weather": "rain"
+  },
+  {
+    "date": "2015-10-07",
+    "Precipitation": "9.9",
+    "Temp_max": "16.1",
+    "Temp_min": "13.9",
+    "Wind": "2.2",
+    "Weather": "rain"
+  },
+  {
+    "date": "2015-10-09",
+    "Precipitation": "0.3",
+    "Temp_max": "19.4",
+    "Temp_min": "12.2",
+    "Wind": "2.6",
+    "Weather": "rain"
+  },
+  {
+    "date": "2015-10-10",
+    "Precipitation": "28.7",
+    "Temp_max": "21.1",
+    "Temp_min": "13.3",
+    "Wind": "4.7",
+    "Weather": "rain"
+  },
+  {
+    "date": "2015-10-12",
+    "Precipitation": "4.6",
+    "Temp_max": "18.3",
+    "Temp_min": "10.6",
+    "Wind": "2.8",
+    "Weather": "rain"
+  },
+  {
+    "date": "2015-10-13",
+    "Precipitation": "1.3",
+    "Temp_max": "16.7",
+    "Temp_min": "9.4",
+    "Wind": "3.2",
+    "Weather": "rain"
+  },
+  {
+    "date": "2015-10-17",
+    "Precipitation": "0.3",
+    "Temp_max": "19.4",
+    "Temp_min": "11.7",
+    "Wind": "1.3",
+    "Weather": "rain"
+  },
+  {
+    "date": "2015-10-18",
+    "Precipitation": "3.8",
+    "Temp_max": "15.0",
+    "Temp_min": "12.8",
+    "Wind": "2.0",
+    "Weather": "rain"
+  },
+  {
+    "date": "2015-10-19",
+    "Precipitation": "0.3",
+    "Temp_max": "17.2",
+    "Temp_min": "12.2",
+    "Wind": "2.6",
+    "Weather": "rain"
+  },
+  {
+    "date": "2015-10-25",
+    "Precipitation": "8.9",
+    "Temp_max": "19.4",
+    "Temp_min": "8.9",
+    "Wind": "3.4",
+    "Weather": "rain"
+  },
+  {
+    "date": "2015-10-26",
+    "Precipitation": "6.9",
+    "Temp_max": "12.2",
+    "Temp_min": "10.0",
+    "Wind": "4.6",
+    "Weather": "rain"
+  },
+  {
+    "date": "2015-10-28",
+    "Precipitation": "3.3",
+    "Temp_max": "13.9",
+    "Temp_min": "11.1",
+    "Wind": "2.8",
+    "Weather": "rain"
+  },
+  {
+    "date": "2015-10-29",
+    "Precipitation": "1.8",
+    "Temp_max": "15.0",
+    "Temp_min": "12.2",
+    "Wind": "4.7",
+    "Weather": "rain"
+  },
+  {
+    "date": "2015-10-30",
+    "Precipitation": "19.3",
+    "Temp_max": "17.2",
+    "Temp_min": "11.7",
+    "Wind": "6.7",
+    "Weather": "rain"
+  },
+  {
+    "date": "2015-10-31",
+    "Precipitation": "33.0",
+    "Temp_max": "15.6",
+    "Temp_min": "11.7",
+    "Wind": "7.2",
+    "Weather": "rain"
+  },
+  {
+    "date": "2015-11-01",
+    "Precipitation": "26.2",
+    "Temp_max": "12.2",
+    "Temp_min": "8.9",
+    "Wind": "6.0",
+    "Weather": "rain"
+  },
+  {
+    "date": "2015-11-02",
+    "Precipitation": "0.3",
+    "Temp_max": "11.1",
+    "Temp_min": "7.2",
+    "Wind": "2.8",
+    "Weather": "rain"
+  },
+  {
+    "date": "2015-11-03",
+    "Precipitation": "0.8",
+    "Temp_max": "10.6",
+    "Temp_min": "5.0",
+    "Wind": "1.4",
+    "Weather": "rain"
+  },
+  {
+    "date": "2015-11-05",
+    "Precipitation": "1.3",
+    "Temp_max": "11.7",
+    "Temp_min": "7.8",
+    "Wind": "2.3",
+    "Weather": "rain"
+  },
+  {
+    "date": "2015-11-07",
+    "Precipitation": "12.7",
+    "Temp_max": "12.2",
+    "Temp_min": "9.4",
+    "Wind": "3.0",
+    "Weather": "rain"
+  },
+  {
+    "date": "2015-11-08",
+    "Precipitation": "6.6",
+    "Temp_max": "11.1",
+    "Temp_min": "7.8",
+    "Wind": "1.8",
+    "Weather": "rain"
+  },
+  {
+    "date": "2015-11-09",
+    "Precipitation": "3.3",
+    "Temp_max": "10.0",
+    "Temp_min": "5.0",
+    "Wind": "1.3",
+    "Weather": "rain"
+  },
+  {
+    "date": "2015-11-10",
+    "Precipitation": "1.3",
+    "Temp_max": "11.1",
+    "Temp_min": "3.9",
+    "Wind": "3.9",
+    "Weather": "rain"
+  },
+  {
+    "date": "2015-11-11",
+    "Precipitation": "1.5",
+    "Temp_max": "11.1",
+    "Temp_min": "6.1",
+    "Wind": "4.6",
+    "Weather": "rain"
+  },
+  {
+    "date": "2015-11-12",
+    "Precipitation": "9.9",
+    "Temp_max": "11.1",
+    "Temp_min": "5.0",
+    "Wind": "5.1",
+    "Weather": "rain"
+  },
+  {
+    "date": "2015-11-13",
+    "Precipitation": "33.5",
+    "Temp_max": "13.3",
+    "Temp_min": "9.4",
+    "Wind": "6.5",
+    "Weather": "rain"
+  },
+  {
+    "date": "2015-11-14",
+    "Precipitation": "47.2",
+    "Temp_max": "9.4",
+    "Temp_min": "6.1",
+    "Wind": "4.5",
+    "Weather": "rain"
+  },
+  {
+    "date": "2015-11-15",
+    "Precipitation": "22.4",
+    "Temp_max": "8.9",
+    "Temp_min": "2.2",
+    "Wind": "4.1",
+    "Weather": "rain"
+  },
+  {
+    "date": "2015-11-16",
+    "Precipitation": "2.0",
+    "Temp_max": "8.9",
+    "Temp_min": "1.7",
+    "Wind": "4.0",
+    "Weather": "rain"
+  },
+  {
+    "date": "2015-11-17",
+    "Precipitation": "29.5",
+    "Temp_max": "13.3",
+    "Temp_min": "6.7",
+    "Wind": "8.0",
+    "Weather": "rain"
+  },
+  {
+    "date": "2015-11-18",
+    "Precipitation": "1.5",
+    "Temp_max": "8.9",
+    "Temp_min": "3.3",
+    "Wind": "3.8",
+    "Weather": "rain"
+  },
+  {
+    "date": "2015-11-19",
+    "Precipitation": "2.0",
+    "Temp_max": "8.9",
+    "Temp_min": "2.8",
+    "Wind": "4.2",
+    "Weather": "rain"
+  },
+  {
+    "date": "2015-11-23",
+    "Precipitation": "3.0",
+    "Temp_max": "6.7",
+    "Temp_min": "0.0",
+    "Wind": "1.3",
+    "Weather": "rain"
+  },
+  {
+    "date": "2015-11-24",
+    "Precipitation": "7.1",
+    "Temp_max": "6.7",
+    "Temp_min": "2.8",
+    "Wind": "4.5",
+    "Weather": "rain"
+  },
+  {
+    "date": "2015-11-30",
+    "Precipitation": "0.5",
+    "Temp_max": "5.6",
+    "Temp_min": "-3.8",
+    "Wind": "1.7",
+    "Weather": "rain"
+  },
+  {
+    "date": "2015-12-01",
+    "Precipitation": "12.2",
+    "Temp_max": "10.0",
+    "Temp_min": "3.9",
+    "Wind": "3.5",
+    "Weather": "rain"
+  },
+  {
+    "date": "2015-12-02",
+    "Precipitation": "2.5",
+    "Temp_max": "10.6",
+    "Temp_min": "4.4",
+    "Wind": "5.0",
+    "Weather": "rain"
+  },
+  {
+    "date": "2015-12-03",
+    "Precipitation": "12.7",
+    "Temp_max": "15.6",
+    "Temp_min": "7.8",
+    "Wind": "5.9",
+    "Weather": "rain"
+  },
+  {
+    "date": "2015-12-04",
+    "Precipitation": "2.0",
+    "Temp_max": "10.6",
+    "Temp_min": "6.1",
+    "Wind": "4.7",
+    "Weather": "rain"
+  },
+  {
+    "date": "2015-12-05",
+    "Precipitation": "15.7",
+    "Temp_max": "10.0",
+    "Temp_min": "6.1",
+    "Wind": "4.0",
+    "Weather": "rain"
+  },
+  {
+    "date": "2015-12-06",
+    "Precipitation": "11.2",
+    "Temp_max": "12.8",
+    "Temp_min": "7.2",
+    "Wind": "5.9",
+    "Weather": "rain"
+  },
+  {
+    "date": "2015-12-07",
+    "Precipitation": "27.4",
+    "Temp_max": "11.1",
+    "Temp_min": "8.3",
+    "Wind": "3.4",
+    "Weather": "rain"
+  },
+  {
+    "date": "2015-12-08",
+    "Precipitation": "54.1",
+    "Temp_max": "15.6",
+    "Temp_min": "10.0",
+    "Wind": "6.2",
+    "Weather": "rain"
+  },
+  {
+    "date": "2015-12-09",
+    "Precipitation": "13.5",
+    "Temp_max": "12.2",
+    "Temp_min": "7.8",
+    "Wind": "6.3",
+    "Weather": "rain"
+  },
+  {
+    "date": "2015-12-10",
+    "Precipitation": "9.4",
+    "Temp_max": "11.7",
+    "Temp_min": "6.1",
+    "Wind": "7.5",
+    "Weather": "rain"
+  },
+  {
+    "date": "2015-12-11",
+    "Precipitation": "0.3",
+    "Temp_max": "9.4",
+    "Temp_min": "4.4",
+    "Wind": "2.8",
+    "Weather": "rain"
+  },
+  {
+    "date": "2015-12-12",
+    "Precipitation": "16.0",
+    "Temp_max": "8.9",
+    "Temp_min": "5.6",
+    "Wind": "5.6",
+    "Weather": "rain"
+  },
+  {
+    "date": "2015-12-13",
+    "Precipitation": "1.3",
+    "Temp_max": "7.8",
+    "Temp_min": "6.1",
+    "Wind": "6.1",
+    "Weather": "rain"
+  },
+  {
+    "date": "2015-12-15",
+    "Precipitation": "1.5",
+    "Temp_max": "6.7",
+    "Temp_min": "1.1",
+    "Wind": "2.9",
+    "Weather": "rain"
+  },
+  {
+    "date": "2015-12-16",
+    "Precipitation": "3.6",
+    "Temp_max": "6.1",
+    "Temp_min": "2.8",
+    "Wind": "2.3",
+    "Weather": "rain"
+  },
+  {
+    "date": "2015-12-17",
+    "Precipitation": "21.8",
+    "Temp_max": "6.7",
+    "Temp_min": "3.9",
+    "Wind": "6.0",
+    "Weather": "rain"
+  },
+  {
+    "date": "2015-12-18",
+    "Precipitation": "18.5",
+    "Temp_max": "8.9",
+    "Temp_min": "4.4",
+    "Wind": "5.1",
+    "Weather": "rain"
+  },
+  {
+    "date": "2015-12-20",
+    "Precipitation": "4.3",
+    "Temp_max": "7.8",
+    "Temp_min": "4.4",
+    "Wind": "6.7",
+    "Weather": "rain"
+  },
+  {
+    "date": "2015-12-21",
+    "Precipitation": "27.4",
+    "Temp_max": "5.6",
+    "Temp_min": "2.8",
+    "Wind": "4.3",
+    "Weather": "rain"
+  },
+  {
+    "date": "2015-12-22",
+    "Precipitation": "4.6",
+    "Temp_max": "7.8",
+    "Temp_min": "2.8",
+    "Wind": "5.0",
+    "Weather": "rain"
+  },
+  {
+    "date": "2015-12-23",
+    "Precipitation": "6.1",
+    "Temp_max": "5.0",
+    "Temp_min": "2.8",
+    "Wind": "7.6",
+    "Weather": "rain"
+  },
+  {
+    "date": "2015-12-24",
+    "Precipitation": "2.5",
+    "Temp_max": "5.6",
+    "Temp_min": "2.2",
+    "Wind": "4.3",
+    "Weather": "rain"
+  },
+  {
+    "date": "2015-12-25",
+    "Precipitation": "5.8",
+    "Temp_max": "5.0",
+    "Temp_min": "2.2",
+    "Wind": "1.5",
+    "Weather": "rain"
+  },
+  {
+    "date": "2015-12-27",
+    "Precipitation": "8.6",
+    "Temp_max": "4.4",
+    "Temp_min": "1.7",
+    "Wind": "2.9",
+    "Weather": "rain"
+  },
+  {
+    "date": "2015-12-28",
+    "Precipitation": "1.5",
+    "Temp_max": "5.0",
+    "Temp_min": "1.7",
+    "Wind": "1.3",
+    "Weather": "rain"
+  }
+]

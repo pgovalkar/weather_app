@@ -1,0 +1,18 @@
+[
+  {
+    "date": "2012-01-01",
+    "Precipitation": "0.0",
+    "Temp_max": "12.8",
+    "Temp_min": "5.0",
+    "Wind": "4.7",
+    "Weather": "drizzle"
+  },
+  {
+    "date": "2012-01-02",
+    "Precipitation": "10.9",
+    "Temp_max": "10.6",
+    "Temp_min": "2.8",
+    "Wind": "4.5",
+    "Weather": "rain"
+  }
+]
