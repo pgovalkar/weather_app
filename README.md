@@ -11,6 +11,8 @@ This app will import the seattle weather report which is in csv format and the c
 . docker is installed is on your local machine
 
 ## Next steps, clone the git repo  
+git clone https://github.com/pgovalkar/weather_app.git
+
 ## Testing Locally
 1. Run `go run main.go` from the root folder of the repo
 2. Open browser and connect to `localhost:8080`
