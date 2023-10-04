@@ -30,7 +30,7 @@ git clone https://github.com/pgovalkar/weather_app.git
    `docker build -t weather .` <br />
 2. Create container eg: <br />
    `docker run -d -p 2200:8080 --name weather weather` <br />
-3. For testing follow steps 2 & 3 from Testing Locally <br />
+3. For testing follow steps 2 & 3 from Testing Locally, replace `8080` with `2200` <br />
 
 ## Testing the APi using script
 1. Create  docker image using Dockerfile under testing directory <br />
