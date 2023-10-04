@@ -45,7 +45,7 @@ func filerByQuery(w http.ResponseWriter, r *http.Request) {
 	// limit := r.URL.Query().Get("limit")
 
 	allRecords := util.CsvToJson()
-	var lists []util.Weather
+	var lists, datelist, weatherlist []util.Weather
 
 	if date != "" {
 		for _, record := range allRecords {
@@ -58,7 +58,7 @@ func filerByQuery(w http.ResponseWriter, r *http.Request) {
 					Wind:          record.Wind,
 					Weather:       record.Weather,
 				}
-				lists = append(lists, list)
+				datelist = append(datelist, list)
 			}
 		}
 	}
@@ -74,13 +74,38 @@ func filerByQuery(w http.ResponseWriter, r *http.Request) {
 					Wind:          record.Wind,
 					Weather:       record.Weather,
 				}
-				lists = append(lists, list)
+				weatherlist = append(weatherlist, list)
 			}
 		}
 	}
 
 	if (date != "" && limit != "") || (weather != "" && limit != "") {
-		lists = ifLimit(limit, lists)
+		if len(datelist) == 0 {
+			lists = weatherlist
+			lists = ifLimit(limit, lists)
+		} else {
+			lists = datelist
+			lists = ifLimit(limit, lists)
+		}
+
+	} else if date != "" && weather != "" {
+		for _, data := range datelist {
+			if data.Weather == weather {
+				out := util.Weather{
+					Date:          data.Date,
+					Precipitation: data.Precipitation,
+					Temp_max:      data.Temp_max,
+					Temp_min:      data.Temp_min,
+					Wind:          data.Wind,
+					Weather:       data.Weather,
+				}
+				lists = append(lists, out)
+			} else {
+				break
+			}
+
+		}
+
 	} else if limit != "" {
 		lists = ifLimit(limit, allRecords)
 	}
